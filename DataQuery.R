@@ -99,6 +99,8 @@ df<-as_tibble(scrns_df[!is.na(over(scrns_df, grd)),])
 # write output
 write_csv(scrns, "wellscreens.csv")
 write_csv(df, "collar.csv")
+save(scrns, file = 'scrns.Rda')
+save(df, file='scrns_select.Rda')
 writeOGR(spdf, dsn = getwd(), layer = "wellscreens", driver = "ESRI Shapefile", overwrite_layer=TRUE)
 
 #### Get Lithology Table
