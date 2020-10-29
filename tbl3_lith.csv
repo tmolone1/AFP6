@@ -1,0 +1,2377 @@
+Well Identification,Lithology,value,to
+B04540,"Fill 
+(ft bgs)",0,NA
+B04540,"Residual Soil
+ (ft bgs)",20,NA
+B04540,Saprolite (ft bgs),28.5,NA
+B04540,"PWR
+ (ft bgs)",45,NA
+B04540,"Top of Rock 
+ (ft bgs)",110,NA
+B04540,"Bottom Screen
+ (ft bgs)",100,NA
+B04540,Measured Well Depth,104.21,NA
+B04542,"Fill 
+(ft bgs)",0,NA
+B04542,"Residual Soil
+ (ft bgs)","NA",NA
+B04542,Saprolite (ft bgs),35,NA
+B04542,"PWR
+ (ft bgs)",49,NA
+B04542,"Top of Rock 
+ (ft bgs)",55,NA
+B04542,"Bottom Screen
+ (ft bgs)",50,NA
+B04542,Measured Well Depth,50.25,NA
+B04545,"Fill 
+(ft bgs)",0,NA
+B04545,"Residual Soil
+ (ft bgs)","NA",NA
+B04545,Saprolite (ft bgs),45,NA
+B04545,"PWR
+ (ft bgs)",157,NA
+B04545,"Top of Rock 
+ (ft bgs)",165,NA
+B04545,"Bottom Screen
+ (ft bgs)",160,NA
+B04545,Measured Well Depth,160.5,NA
+B04546,"Fill 
+(ft bgs)",0,NA
+B04546,"Residual Soil
+ (ft bgs)","NA",NA
+B04546,Saprolite (ft bgs),7.5,NA
+B04546,"PWR
+ (ft bgs)",115,NA
+B04546,"Top of Rock 
+ (ft bgs)",135,NA
+B04546,"Bottom Screen
+ (ft bgs)",124,NA
+B04546,Measured Well Depth,NA,NA
+B04547,"Fill 
+(ft bgs)",0,NA
+B04547,"Residual Soil
+ (ft bgs)","NA",NA
+B04547,Saprolite (ft bgs),55,NA
+B04547,"PWR
+ (ft bgs)",155,NA
+B04547,"Top of Rock 
+ (ft bgs)",165,NA
+B04547,"Bottom Screen
+ (ft bgs)",163,NA
+B04547,Measured Well Depth,NA,NA
+B04548,"Fill 
+(ft bgs)",0,NA
+B04548,"Residual Soil
+ (ft bgs)","NA",NA
+B04548,Saprolite (ft bgs),12.5,NA
+B04548,"PWR
+ (ft bgs)",137,NA
+B04548,"Top of Rock 
+ (ft bgs)",139.5,NA
+B04548,"Bottom Screen
+ (ft bgs)",137,NA
+B04548,Measured Well Depth,NA,NA
+B04549,"Fill 
+(ft bgs)",0,NA
+B04549,"Residual Soil
+ (ft bgs)","NA",NA
+B04549,Saprolite (ft bgs),55,NA
+B04549,"PWR
+ (ft bgs)",100,NA
+B04549,"Top of Rock 
+ (ft bgs)",120,NA
+B04549,"Bottom Screen
+ (ft bgs)",118,NA
+B04549,Measured Well Depth,58.9,NA
+B04557,"Fill 
+(ft bgs)","NA",NA
+B04557,"Residual Soil
+ (ft bgs)","NA",NA
+B04557,Saprolite (ft bgs),0,NA
+B04557,"PWR
+ (ft bgs)",102.5,NA
+B04557,"Top of Rock 
+ (ft bgs)",115,NA
+B04557,"Bottom Screen
+ (ft bgs)",113,NA
+B04557,Measured Well Depth,106.45,NA
+B04558,"Fill 
+(ft bgs)",0,NA
+B04558,"Residual Soil
+ (ft bgs)",15,NA
+B04558,Saprolite (ft bgs),43,NA
+B04558,"PWR
+ (ft bgs)",78,NA
+B04558,"Top of Rock 
+ (ft bgs)",125,NA
+B04558,"Bottom Screen
+ (ft bgs)",124,NA
+B04558,Measured Well Depth,123.35,NA
+B04559,"Fill 
+(ft bgs)",0,NA
+B04559,"Residual Soil
+ (ft bgs)","NA",NA
+B04559,Saprolite (ft bgs),55,NA
+B04559,"PWR
+ (ft bgs)",85,NA
+B04559,"Top of Rock 
+ (ft bgs)",95,NA
+B04559,"Bottom Screen
+ (ft bgs)",94,NA
+B04559,Measured Well Depth,96.03,NA
+B04560,"Fill 
+(ft bgs)","NA",NA
+B04560,"Residual Soil
+ (ft bgs)",0,NA
+B04560,Saprolite (ft bgs),10,NA
+B04560,"PWR
+ (ft bgs)",40,NA
+B04560,"Top of Rock 
+ (ft bgs)",59,NA
+B04560,"Bottom Screen
+ (ft bgs)",OH,NA
+B04560,Measured Well Depth,NA,NA
+B04561,"Fill 
+(ft bgs)","NA",NA
+B04561,"Residual Soil
+ (ft bgs)",0,NA
+B04561,Saprolite (ft bgs),10,NA
+B04561,"PWR
+ (ft bgs)",40,NA
+B04561,"Top of Rock 
+ (ft bgs)",59,NA
+B04561,"Bottom Screen
+ (ft bgs)",65,NA
+B04561,Measured Well Depth,67.15,NA
+B04562,"Fill 
+(ft bgs)",0,NA
+B04562,"Residual Soil
+ (ft bgs)",45,NA
+B04562,Saprolite (ft bgs),75,NA
+B04562,"PWR
+ (ft bgs)",122,NA
+B04562,"Top of Rock 
+ (ft bgs)",187,NA
+B04562,"Bottom Screen
+ (ft bgs)",184,NA
+B04562,Measured Well Depth,NA,NA
+B04563,"Fill 
+(ft bgs)",0,NA
+B04563,"Residual Soil
+ (ft bgs)","NA",NA
+B04563,Saprolite (ft bgs),45,NA
+B04563,"PWR
+ (ft bgs)",112,NA
+B04563,"Top of Rock 
+ (ft bgs)",191,NA
+B04563,"Bottom Screen
+ (ft bgs)",184,NA
+B04563,Measured Well Depth,NA,NA
+B04564,"Fill 
+(ft bgs)",0,NA
+B04564,"Residual Soil
+ (ft bgs)","NA",NA
+B04564,Saprolite (ft bgs),25,NA
+B04564,"PWR
+ (ft bgs)",106,NA
+B04564,"Top of Rock 
+ (ft bgs)",181,NA
+B04564,"Bottom Screen
+ (ft bgs)",180,NA
+B04564,Measured Well Depth,NA,NA
+B04565,"Fill 
+(ft bgs)",0,NA
+B04565,"Residual Soil
+ (ft bgs)","NA",NA
+B04565,Saprolite (ft bgs),45,NA
+B04565,"PWR
+ (ft bgs)",120,NA
+B04565,"Top of Rock 
+ (ft bgs)",229,NA
+B04565,"Bottom Screen
+ (ft bgs)",218,NA
+B04565,Measured Well Depth,NA,NA
+B04570,"Fill 
+(ft bgs)",0,NA
+B04570,"Residual Soil
+ (ft bgs)","NA",NA
+B04570,Saprolite (ft bgs),45,NA
+B04570,"PWR
+ (ft bgs)",130,NA
+B04570,"Top of Rock 
+ (ft bgs)",215,NA
+B04570,"Bottom Screen
+ (ft bgs)",OH,NA
+B04570,Measured Well Depth,NA,NA
+B04571,"Fill 
+(ft bgs)",0,NA
+B04571,"Residual Soil
+ (ft bgs)","NA",NA
+B04571,Saprolite (ft bgs),35,NA
+B04571,"PWR
+ (ft bgs)",94,NA
+B04571,"Top of Rock 
+ (ft bgs)","NA",NA
+B04571,"Bottom Screen
+ (ft bgs)",94,NA
+B04571,Measured Well Depth,"NA",NA
+B04572,"Fill 
+(ft bgs)",0,NA
+B04572,"Residual Soil
+ (ft bgs)","NA",NA
+B04572,Saprolite (ft bgs),35,NA
+B04572,"PWR
+ (ft bgs)",94,NA
+B04572,"Top of Rock 
+ (ft bgs)","NA",NA
+B04572,"Bottom Screen
+ (ft bgs)",77.5,NA
+B04572,Measured Well Depth,"NA",NA
+B04573,"Fill 
+(ft bgs)",0,NA
+B04573,"Residual Soil
+ (ft bgs)","NA",NA
+B04573,Saprolite (ft bgs),35,NA
+B04573,"PWR
+ (ft bgs)",94,NA
+B04573,"Top of Rock 
+ (ft bgs)","NA",NA
+B04573,"Bottom Screen
+ (ft bgs)",60,NA
+B04573,Measured Well Depth,"NA",NA
+B04574,"Fill 
+(ft bgs)",0,NA
+B04574,"Residual Soil
+ (ft bgs)","NA",NA
+B04574,Saprolite (ft bgs),35,NA
+B04574,"PWR
+ (ft bgs)",94,NA
+B04574,"Top of Rock 
+ (ft bgs)","NA",NA
+B04574,"Bottom Screen
+ (ft bgs)",43.5,NA
+B04574,Measured Well Depth,"NA",NA
+B04575,"Fill 
+(ft bgs)",0,NA
+B04575,"Residual Soil
+ (ft bgs)",35,NA
+B04575,Saprolite (ft bgs),45,NA
+B04575,"PWR
+ (ft bgs)",90,NA
+B04575,"Top of Rock 
+ (ft bgs)","NA",NA
+B04575,"Bottom Screen
+ (ft bgs)",89,NA
+B04575,Measured Well Depth,"NA",NA
+B04576,"Fill 
+(ft bgs)",0,NA
+B04576,"Residual Soil
+ (ft bgs)",35,NA
+B04576,Saprolite (ft bgs),45,NA
+B04576,"PWR
+ (ft bgs)",90,NA
+B04576,"Top of Rock 
+ (ft bgs)","NA",NA
+B04576,"Bottom Screen
+ (ft bgs)",69.5,NA
+B04576,Measured Well Depth,"NA",NA
+B04577,"Fill 
+(ft bgs)",0,NA
+B04577,"Residual Soil
+ (ft bgs)",35,NA
+B04577,Saprolite (ft bgs),45,NA
+B04577,"PWR
+ (ft bgs)",90,NA
+B04577,"Top of Rock 
+ (ft bgs)","NA",NA
+B04577,"Bottom Screen
+ (ft bgs)",54.5,NA
+B04577,Measured Well Depth,"NA",NA
+B04578,"Fill 
+(ft bgs)",0,NA
+B04578,"Residual Soil
+ (ft bgs)",35,NA
+B04578,Saprolite (ft bgs),45,NA
+B04578,"PWR
+ (ft bgs)",90,NA
+B04578,"Top of Rock 
+ (ft bgs)","NA",NA
+B04578,"Bottom Screen
+ (ft bgs)",38.5,NA
+B04578,Measured Well Depth,"NA",NA
+B04579,"Fill 
+(ft bgs)",0,NA
+B04579,"Residual Soil
+ (ft bgs)",50,NA
+B04579,Saprolite (ft bgs),55,NA
+B04579,"PWR
+ (ft bgs)",115,NA
+B04579,"Top of Rock 
+ (ft bgs)",195,NA
+B04579,"Bottom Screen
+ (ft bgs)",195,NA
+B04579,Measured Well Depth,"NA",NA
+B04580,"Fill 
+(ft bgs)",0,NA
+B04580,"Residual Soil
+ (ft bgs)","NA",NA
+B04580,Saprolite (ft bgs),34,NA
+B04580,"PWR
+ (ft bgs)","NA",NA
+B04580,"Top of Rock 
+ (ft bgs)","NA",NA
+B04580,"Bottom Screen
+ (ft bgs)",95.5,NA
+B04580,Measured Well Depth,95.5,NA
+B04581,"Fill 
+(ft bgs)",0,NA
+B04581,"Residual Soil
+ (ft bgs)","NA",NA
+B04581,Saprolite (ft bgs),34,NA
+B04581,"PWR
+ (ft bgs)","NA",NA
+B04581,"Top of Rock 
+ (ft bgs)","NA",NA
+B04581,"Bottom Screen
+ (ft bgs)",73,NA
+B04581,Measured Well Depth,73,NA
+B04582,"Fill 
+(ft bgs)",0,NA
+B04582,"Residual Soil
+ (ft bgs)","NA",NA
+B04582,Saprolite (ft bgs),34,NA
+B04582,"PWR
+ (ft bgs)","NA",NA
+B04582,"Top of Rock 
+ (ft bgs)","NA",NA
+B04582,"Bottom Screen
+ (ft bgs)",60,NA
+B04582,Measured Well Depth,60,NA
+B04583,"Fill 
+(ft bgs)",0,NA
+B04583,"Residual Soil
+ (ft bgs)","NA",NA
+B04583,Saprolite (ft bgs),34,NA
+B04583,"PWR
+ (ft bgs)","NA",NA
+B04583,"Top of Rock 
+ (ft bgs)","NA",NA
+B04583,"Bottom Screen
+ (ft bgs)",41,NA
+B04583,Measured Well Depth,41,NA
+B04584,"Fill 
+(ft bgs)",0,NA
+B04584,"Residual Soil
+ (ft bgs)","NA",NA
+B04584,Saprolite (ft bgs),34,NA
+B04584,"PWR
+ (ft bgs)","NA",NA
+B04584,"Top of Rock 
+ (ft bgs)","NA",NA
+B04584,"Bottom Screen
+ (ft bgs)","NA",NA
+B04584,Measured Well Depth,"NA",NA
+B04585,"Fill 
+(ft bgs)",0,NA
+B04585,"Residual Soil
+ (ft bgs)","NA",NA
+B04585,Saprolite (ft bgs),30,NA
+B04585,"PWR
+ (ft bgs)","NA",NA
+B04585,"Top of Rock 
+ (ft bgs)","NA",NA
+B04585,"Bottom Screen
+ (ft bgs)","NA",NA
+B04585,Measured Well Depth,"NA",NA
+B04586,"Fill 
+(ft bgs)",0,NA
+B04586,"Residual Soil
+ (ft bgs)","NA",NA
+B04586,Saprolite (ft bgs),45,NA
+B04586,"PWR
+ (ft bgs)",94,NA
+B04586,"Top of Rock 
+ (ft bgs)",196,NA
+B04586,"Bottom Screen
+ (ft bgs)",154,NA
+B04586,Measured Well Depth,154,NA
+B04589,"Fill 
+(ft bgs)",0,NA
+B04589,"Residual Soil
+ (ft bgs)","NA",NA
+B04589,Saprolite (ft bgs),65,NA
+B04589,"PWR
+ (ft bgs)",120,NA
+B04589,"Top of Rock 
+ (ft bgs)",205,NA
+B04589,"Bottom Screen
+ (ft bgs)",200,NA
+B04589,Measured Well Depth,200,NA
+B04590,"Fill 
+(ft bgs)",0,NA
+B04590,"Residual Soil
+ (ft bgs)","NA",NA
+B04590,Saprolite (ft bgs),45,NA
+B04590,"PWR
+ (ft bgs)",95,NA
+B04590,"Top of Rock 
+ (ft bgs)","NA",NA
+B04590,"Bottom Screen
+ (ft bgs)",95,NA
+B04590,Measured Well Depth,95,NA
+B04591,"Fill 
+(ft bgs)",0,NA
+B04591,"Residual Soil
+ (ft bgs)","NA",NA
+B04591,Saprolite (ft bgs),45,NA
+B04591,"PWR
+ (ft bgs)",95,NA
+B04591,"Top of Rock 
+ (ft bgs)","NA",NA
+B04591,"Bottom Screen
+ (ft bgs)",77,NA
+B04591,Measured Well Depth,77,NA
+B04592,"Fill 
+(ft bgs)",0,NA
+B04592,"Residual Soil
+ (ft bgs)","NA",NA
+B04592,Saprolite (ft bgs),45,NA
+B04592,"PWR
+ (ft bgs)",95,NA
+B04592,"Top of Rock 
+ (ft bgs)","NA",NA
+B04592,"Bottom Screen
+ (ft bgs)",59,NA
+B04592,Measured Well Depth,59,NA
+B04600A,"Fill 
+(ft bgs)",0,NA
+B04600A,"Residual Soil
+ (ft bgs)","NA",NA
+B04600A,Saprolite (ft bgs),15,NA
+B04600A,"PWR
+ (ft bgs)",75,NA
+B04600A,"Top of Rock 
+ (ft bgs)","NA",NA
+B04600A,"Bottom Screen
+ (ft bgs)",41,NA
+B04600A,Measured Well Depth,42,NA
+B04600B,"Fill 
+(ft bgs)",0,NA
+B04600B,"Residual Soil
+ (ft bgs)","NA",NA
+B04600B,Saprolite (ft bgs),15,NA
+B04600B,"PWR
+ (ft bgs)",75,NA
+B04600B,"Top of Rock 
+ (ft bgs)","NA",NA
+B04600B,"Bottom Screen
+ (ft bgs)",48,NA
+B04600B,Measured Well Depth,49,NA
+B04600C,"Fill 
+(ft bgs)",0,NA
+B04600C,"Residual Soil
+ (ft bgs)","NA",NA
+B04600C,Saprolite (ft bgs),15,NA
+B04600C,"PWR
+ (ft bgs)",75,NA
+B04600C,"Top of Rock 
+ (ft bgs)","NA",NA
+B04600C,"Bottom Screen
+ (ft bgs)",55,NA
+B04600C,Measured Well Depth,56,NA
+B04600D,"Fill 
+(ft bgs)",0,NA
+B04600D,"Residual Soil
+ (ft bgs)","NA",NA
+B04600D,Saprolite (ft bgs),15,NA
+B04600D,"PWR
+ (ft bgs)",75,NA
+B04600D,"Top of Rock 
+ (ft bgs)","NA",NA
+B04600D,"Bottom Screen
+ (ft bgs)",62,NA
+B04600D,Measured Well Depth,63,NA
+B04600E,"Fill 
+(ft bgs)",0,NA
+B04600E,"Residual Soil
+ (ft bgs)","NA",NA
+B04600E,Saprolite (ft bgs),15,NA
+B04600E,"PWR
+ (ft bgs)",75,NA
+B04600E,"Top of Rock 
+ (ft bgs)","NA",NA
+B04600E,"Bottom Screen
+ (ft bgs)",69,NA
+B04600E,Measured Well Depth,70,NA
+B04600F,"Fill 
+(ft bgs)",0,NA
+B04600F,"Residual Soil
+ (ft bgs)","NA",NA
+B04600F,Saprolite (ft bgs),15,NA
+B04600F,"PWR
+ (ft bgs)",75,NA
+B04600F,"Top of Rock 
+ (ft bgs)","NA",NA
+B04600F,"Bottom Screen
+ (ft bgs)",76,NA
+B04600F,Measured Well Depth,79,NA
+B04601A,"Fill 
+(ft bgs)",0,NA
+B04601A,"Residual Soil
+ (ft bgs)","NA",NA
+B04601A,Saprolite (ft bgs),25,NA
+B04601A,"PWR
+ (ft bgs)",105,NA
+B04601A,"Top of Rock 
+ (ft bgs)","NA",NA
+B04601A,"Bottom Screen
+ (ft bgs)",45,NA
+B04601A,Measured Well Depth,46,NA
+B04601B,"Fill 
+(ft bgs)",0,NA
+B04601B,"Residual Soil
+ (ft bgs)","NA",NA
+B04601B,Saprolite (ft bgs),25,NA
+B04601B,"PWR
+ (ft bgs)",105,NA
+B04601B,"Top of Rock 
+ (ft bgs)","NA",NA
+B04601B,"Bottom Screen
+ (ft bgs)",54,NA
+B04601B,Measured Well Depth,55,NA
+B04601C,"Fill 
+(ft bgs)",0,NA
+B04601C,"Residual Soil
+ (ft bgs)","NA",NA
+B04601C,Saprolite (ft bgs),25,NA
+B04601C,"PWR
+ (ft bgs)",105,NA
+B04601C,"Top of Rock 
+ (ft bgs)","NA",NA
+B04601C,"Bottom Screen
+ (ft bgs)",63,NA
+B04601C,Measured Well Depth,64,NA
+B04601D,"Fill 
+(ft bgs)",0,NA
+B04601D,"Residual Soil
+ (ft bgs)","NA",NA
+B04601D,Saprolite (ft bgs),25,NA
+B04601D,"PWR
+ (ft bgs)",105,NA
+B04601D,"Top of Rock 
+ (ft bgs)","NA",NA
+B04601D,"Bottom Screen
+ (ft bgs)",72,NA
+B04601D,Measured Well Depth,73,NA
+B04601E,"Fill 
+(ft bgs)",0,NA
+B04601E,"Residual Soil
+ (ft bgs)","NA",NA
+B04601E,Saprolite (ft bgs),25,NA
+B04601E,"PWR
+ (ft bgs)",105,NA
+B04601E,"Top of Rock 
+ (ft bgs)","NA",NA
+B04601E,"Bottom Screen
+ (ft bgs)",81,NA
+B04601E,Measured Well Depth,82,NA
+B04601F,"Fill 
+(ft bgs)",0,NA
+B04601F,"Residual Soil
+ (ft bgs)","NA",NA
+B04601F,Saprolite (ft bgs),25,NA
+B04601F,"PWR
+ (ft bgs)",105,NA
+B04601F,"Top of Rock 
+ (ft bgs)","NA",NA
+B04601F,"Bottom Screen
+ (ft bgs)",90,NA
+B04601F,Measured Well Depth,91,NA
+B04601G,"Fill 
+(ft bgs)",0,NA
+B04601G,"Residual Soil
+ (ft bgs)","NA",NA
+B04601G,Saprolite (ft bgs),25,NA
+B04601G,"PWR
+ (ft bgs)",105,NA
+B04601G,"Top of Rock 
+ (ft bgs)","NA",NA
+B04601G,"Bottom Screen
+ (ft bgs)",99,NA
+B04601G,Measured Well Depth,110,NA
+B04602,"Fill 
+(ft bgs)",0,NA
+B04602,"Residual Soil
+ (ft bgs)","NA",NA
+B04602,Saprolite (ft bgs),35,NA
+B04602,"PWR
+ (ft bgs)",50,NA
+B04602,"Top of Rock 
+ (ft bgs)","NA",NA
+B04602,"Bottom Screen
+ (ft bgs)",55,NA
+B04602,Measured Well Depth,55,NA
+B04603,"Fill 
+(ft bgs)",0,NA
+B04603,"Residual Soil
+ (ft bgs)","NA",NA
+B04603,Saprolite (ft bgs),25,NA
+B04603,"PWR
+ (ft bgs)",54,NA
+B04603,"Top of Rock 
+ (ft bgs)","NA",NA
+B04603,"Bottom Screen
+ (ft bgs)",64,NA
+B04603,Measured Well Depth,64,NA
+B04604,"Fill 
+(ft bgs)",0,NA
+B04604,"Residual Soil
+ (ft bgs)",25,NA
+B04604,Saprolite (ft bgs),96,NA
+B04604,"PWR
+ (ft bgs)","NA",NA
+B04604,"Top of Rock 
+ (ft bgs)","NA",NA
+B04604,"Bottom Screen
+ (ft bgs)",95,NA
+B04604,Measured Well Depth,95,NA
+B04605,"Fill 
+(ft bgs)",0,NA
+B04605,"Residual Soil
+ (ft bgs)",40,NA
+B04605,Saprolite (ft bgs),100,NA
+B04605,"PWR
+ (ft bgs)","NA",NA
+B04605,"Top of Rock 
+ (ft bgs)","NA",NA
+B04605,"Bottom Screen
+ (ft bgs)",80,NA
+B04605,Measured Well Depth,"NA",NA
+B04606,"Fill 
+(ft bgs)",0,NA
+B04606,"Residual Soil
+ (ft bgs)",35,NA
+B04606,Saprolite (ft bgs),100,NA
+B04606,"PWR
+ (ft bgs)","NA",NA
+B04606,"Top of Rock 
+ (ft bgs)","NA",NA
+B04606,"Bottom Screen
+ (ft bgs)",81,NA
+B04606,Measured Well Depth,"NA",NA
+B04607,"Fill 
+(ft bgs)",0,NA
+B04607,"Residual Soil
+ (ft bgs)",25,NA
+B04607,Saprolite (ft bgs),95,NA
+B04607,"PWR
+ (ft bgs)",95,NA
+B04607,"Top of Rock 
+ (ft bgs)","NA",NA
+B04607,"Bottom Screen
+ (ft bgs)",105,NA
+B04607,Measured Well Depth,"NA",NA
+B04608,"Fill 
+(ft bgs)",0,NA
+B04608,"Residual Soil
+ (ft bgs)",25,NA
+B04608,Saprolite (ft bgs),100,NA
+B04608,"PWR
+ (ft bgs)","NA",NA
+B04608,"Top of Rock 
+ (ft bgs)","NA",NA
+B04608,"Bottom Screen
+ (ft bgs)",98,NA
+B04608,Measured Well Depth,"NA",NA
+B04639,"Fill 
+(ft bgs)",0,NA
+B04639,"Residual Soil
+ (ft bgs)",ND,NA
+B04639,Saprolite (ft bgs),35,NA
+B04639,"PWR
+ (ft bgs)",125,NA
+B04639,"Top of Rock 
+ (ft bgs)",160,NA
+B04639,"Bottom Screen
+ (ft bgs)",160,NA
+B04639,Measured Well Depth,160,NA
+B04640,"Fill 
+(ft bgs)",0,NA
+B04640,"Residual Soil
+ (ft bgs)",ND,NA
+B04640,Saprolite (ft bgs),49,NA
+B04640,"PWR
+ (ft bgs)",108,NA
+B04640,"Top of Rock 
+ (ft bgs)",157,NA
+B04640,"Bottom Screen
+ (ft bgs)",167,NA
+B04640,Measured Well Depth,167,NA
+B04641,"Fill 
+(ft bgs)",0,NA
+B04641,"Residual Soil
+ (ft bgs)",ND,NA
+B04641,Saprolite (ft bgs),41,NA
+B04641,"PWR
+ (ft bgs)",106,NA
+B04641,"Top of Rock 
+ (ft bgs)",176,NA
+B04641,"Bottom Screen
+ (ft bgs)",176,NA
+B04641,Measured Well Depth,176,NA
+B04642,"Fill 
+(ft bgs)",0,NA
+B04642,"Residual Soil
+ (ft bgs)",ND,NA
+B04642,Saprolite (ft bgs),23,NA
+B04642,"PWR
+ (ft bgs)",107,NA
+B04642,"Top of Rock 
+ (ft bgs)",127,NA
+B04642,"Bottom Screen
+ (ft bgs)",135,NA
+B04642,Measured Well Depth,135,NA
+B04643,"Fill 
+(ft bgs)",0,NA
+B04643,"Residual Soil
+ (ft bgs)",ND,NA
+B04643,Saprolite (ft bgs),35,NA
+B04643,"PWR
+ (ft bgs)",95,NA
+B04643,"Top of Rock 
+ (ft bgs)",161,NA
+B04643,"Bottom Screen
+ (ft bgs)",164,NA
+B04643,Measured Well Depth,164,NA
+B04649,"Fill 
+(ft bgs)",0,NA
+B04649,"Residual Soil
+ (ft bgs)",ND,NA
+B04649,Saprolite (ft bgs),66,NA
+B04649,"PWR
+ (ft bgs)",155,NA
+B04649,"Top of Rock 
+ (ft bgs)",227,NA
+B04649,"Bottom Screen
+ (ft bgs)",247,NA
+B04649,Measured Well Depth,247,NA
+B04654,"Fill 
+(ft bgs)",0,NA
+B04654,"Residual Soil
+ (ft bgs)",ND,NA
+B04654,Saprolite (ft bgs),56,NA
+B04654,"PWR
+ (ft bgs)",114,NA
+B04654,"Top of Rock 
+ (ft bgs)",157,NA
+B04654,"Bottom Screen
+ (ft bgs)",157,NA
+B04654,Measured Well Depth,157,NA
+B04658,"Fill 
+(ft bgs)",0,NA
+B04658,"Residual Soil
+ (ft bgs)",ND,NA
+B04658,Saprolite (ft bgs),55,NA
+B04658,"PWR
+ (ft bgs)",90,NA
+B04658,"Top of Rock 
+ (ft bgs)",132,NA
+B04658,"Bottom Screen
+ (ft bgs)",135,NA
+B04658,Measured Well Depth,135,NA
+B04662,"Fill 
+(ft bgs)",0,NA
+B04662,"Residual Soil
+ (ft bgs)",ND,NA
+B04662,Saprolite (ft bgs),34,NA
+B04662,"PWR
+ (ft bgs)",80,NA
+B04662,"Top of Rock 
+ (ft bgs)",118,NA
+B04662,"Bottom Screen
+ (ft bgs)",120,NA
+B04662,Measured Well Depth,120,NA
+B04665,"Fill 
+(ft bgs)",0,NA
+B04665,"Residual Soil
+ (ft bgs)",ND,NA
+B04665,Saprolite (ft bgs),65,NA
+B04665,"PWR
+ (ft bgs)",125,NA
+B04665,"Top of Rock 
+ (ft bgs)",140,NA
+B04665,"Bottom Screen
+ (ft bgs)",142,NA
+B04665,Measured Well Depth,142,NA
+B04667,"Fill 
+(ft bgs)",0,NA
+B04667,"Residual Soil
+ (ft bgs)",ND,NA
+B04667,Saprolite (ft bgs),30,NA
+B04667,"PWR
+ (ft bgs)",55,NA
+B04667,"Top of Rock 
+ (ft bgs)",95,NA
+B04667,"Bottom Screen
+ (ft bgs)",102,NA
+B04667,Measured Well Depth,102,NA
+B04669,"Fill 
+(ft bgs)",0,NA
+B04669,"Residual Soil
+ (ft bgs)",ND,NA
+B04669,Saprolite (ft bgs),25,NA
+B04669,"PWR
+ (ft bgs)",47,NA
+B04669,"Top of Rock 
+ (ft bgs)",60,NA
+B04669,"Bottom Screen
+ (ft bgs)",60,NA
+B04669,Measured Well Depth,60,NA
+B04670,"Fill 
+(ft bgs)",0,NA
+B04670,"Residual Soil
+ (ft bgs)",ND,NA
+B04670,Saprolite (ft bgs),37,NA
+B04670,"PWR
+ (ft bgs)",53,NA
+B04670,"Top of Rock 
+ (ft bgs)",103,NA
+B04670,"Bottom Screen
+ (ft bgs)",105,NA
+B04670,Measured Well Depth,105,NA
+B04682,"Fill 
+(ft bgs)",0,NA
+B04682,"Residual Soil
+ (ft bgs)",ND,NA
+B04682,Saprolite (ft bgs),14,NA
+B04682,"PWR
+ (ft bgs)",86,NA
+B04682,"Top of Rock 
+ (ft bgs)",101,NA
+B04682,"Bottom Screen
+ (ft bgs)",70,NA
+B04682,Measured Well Depth,70,NA
+B04683,"Fill 
+(ft bgs)",0,NA
+B04683,"Residual Soil
+ (ft bgs)",ND,NA
+B04683,Saprolite (ft bgs),14,NA
+B04683,"PWR
+ (ft bgs)",86,NA
+B04683,"Top of Rock 
+ (ft bgs)",101,NA
+B04683,"Bottom Screen
+ (ft bgs)",100,NA
+B04683,Measured Well Depth,100,NA
+B04685,"Fill 
+(ft bgs)",0,NA
+B04685,"Residual Soil
+ (ft bgs)",ND,NA
+B04685,Saprolite (ft bgs),14,NA
+B04685,"PWR
+ (ft bgs)",75,NA
+B04685,"Top of Rock 
+ (ft bgs)",ND,NA
+B04685,"Bottom Screen
+ (ft bgs)",60,NA
+B04685,Measured Well Depth,60,NA
+B04686,"Fill 
+(ft bgs)",0,NA
+B04686,"Residual Soil
+ (ft bgs)",ND,NA
+B04686,Saprolite (ft bgs),14,NA
+B04686,"PWR
+ (ft bgs)",75,NA
+B04686,"Top of Rock 
+ (ft bgs)",ND,NA
+B04686,"Bottom Screen
+ (ft bgs)",100,NA
+B04686,Measured Well Depth,100,NA
+B04689,"Fill 
+(ft bgs)",0,NA
+B04689,"Residual Soil
+ (ft bgs)",ND,NA
+B04689,Saprolite (ft bgs),3,NA
+B04689,"PWR
+ (ft bgs)",87,NA
+B04689,"Top of Rock 
+ (ft bgs)",97,NA
+B04689,"Bottom Screen
+ (ft bgs)",97.4,NA
+B04689,Measured Well Depth,97.4,NA
+B04690,"Fill 
+(ft bgs)",0,NA
+B04690,"Residual Soil
+ (ft bgs)",ND,NA
+B04690,Saprolite (ft bgs),15,NA
+B04690,"PWR
+ (ft bgs)",ND,NA
+B04690,"Top of Rock 
+ (ft bgs)",ND,NA
+B04690,"Bottom Screen
+ (ft bgs)",55.5,NA
+B04690,Measured Well Depth,55.5,NA
+B04691,"Fill 
+(ft bgs)",0,NA
+B04691,"Residual Soil
+ (ft bgs)",ND,NA
+B04691,Saprolite (ft bgs),8,NA
+B04691,"PWR
+ (ft bgs)",ND,NA
+B04691,"Top of Rock 
+ (ft bgs)",ND,NA
+B04691,"Bottom Screen
+ (ft bgs)",55,NA
+B04691,Measured Well Depth,55,NA
+B04692,"Fill 
+(ft bgs)",0,NA
+B04692,"Residual Soil
+ (ft bgs)",ND,NA
+B04692,Saprolite (ft bgs),11,NA
+B04692,"PWR
+ (ft bgs)",ND,NA
+B04692,"Top of Rock 
+ (ft bgs)",ND,NA
+B04692,"Bottom Screen
+ (ft bgs)",80,NA
+B04692,Measured Well Depth,80,NA
+B04695,"Fill 
+(ft bgs)",0,NA
+B04695,"Residual Soil
+ (ft bgs)",ND,NA
+B04695,Saprolite (ft bgs),8,NA
+B04695,"PWR
+ (ft bgs)",75,NA
+B04695,"Top of Rock 
+ (ft bgs)",95,NA
+B04695,"Bottom Screen
+ (ft bgs)",95,NA
+B04695,Measured Well Depth,95,NA
+B04698,"Fill 
+(ft bgs)",0,NA
+B04698,"Residual Soil
+ (ft bgs)",ND,NA
+B04698,Saprolite (ft bgs),14,NA
+B04698,"PWR
+ (ft bgs)",83,NA
+B04698,"Top of Rock 
+ (ft bgs)",91,NA
+B04698,"Bottom Screen
+ (ft bgs)",93,NA
+B04698,Measured Well Depth,93,NA
+B04699,"Fill 
+(ft bgs)",0,NA
+B04699,"Residual Soil
+ (ft bgs)",ND,NA
+B04699,Saprolite (ft bgs),8,NA
+B04699,"PWR
+ (ft bgs)",93,NA
+B04699,"Top of Rock 
+ (ft bgs)",110,NA
+B04699,"Bottom Screen
+ (ft bgs)",50,NA
+B04699,Measured Well Depth,50,NA
+B04701,"Fill 
+(ft bgs)",0,NA
+B04701,"Residual Soil
+ (ft bgs)",ND,NA
+B04701,Saprolite (ft bgs),8,NA
+B04701,"PWR
+ (ft bgs)",93,NA
+B04701,"Top of Rock 
+ (ft bgs)",110,NA
+B04701,"Bottom Screen
+ (ft bgs)",110,NA
+B04701,Measured Well Depth,110,NA
+B04707,"Fill 
+(ft bgs)",0,NA
+B04707,"Residual Soil
+ (ft bgs)",ND,NA
+B04707,Saprolite (ft bgs),ND,NA
+B04707,"PWR
+ (ft bgs)",ND,NA
+B04707,"Top of Rock 
+ (ft bgs)",ND,NA
+B04707,"Bottom Screen
+ (ft bgs)",68,NA
+B04707,Measured Well Depth,68,NA
+B04715,"Fill 
+(ft bgs)",0,NA
+B04715,"Residual Soil
+ (ft bgs)",ND,NA
+B04715,Saprolite (ft bgs),88,NA
+B04715,"PWR
+ (ft bgs)",95,NA
+B04715,"Top of Rock 
+ (ft bgs)",ND,NA
+B04715,"Bottom Screen
+ (ft bgs)",88,NA
+B04715,Measured Well Depth,88,NA
+B04729,"Fill 
+(ft bgs)",NA,NA
+B04729,"Residual Soil
+ (ft bgs)",NA,NA
+B04729,Saprolite (ft bgs),0,NA
+B04729,"PWR
+ (ft bgs)",76,NA
+B04729,"Top of Rock 
+ (ft bgs)",127,NA
+B04729,"Bottom Screen
+ (ft bgs)",90,NA
+B04729,Measured Well Depth,NA,NA
+B04730,"Fill 
+(ft bgs)",NA,NA
+B04730,"Residual Soil
+ (ft bgs)",NA,NA
+B04730,Saprolite (ft bgs),0,NA
+B04730,"PWR
+ (ft bgs)",76,NA
+B04730,"Top of Rock 
+ (ft bgs)",127,NA
+B04730,"Bottom Screen
+ (ft bgs)",127,NA
+B04730,Measured Well Depth,NA,NA
+B04734,"Fill 
+(ft bgs)",0,NA
+B04734,"Residual Soil
+ (ft bgs)",10,NA
+B04734,Saprolite (ft bgs),18,NA
+B04734,"PWR
+ (ft bgs)",78,NA
+B04734,"Top of Rock 
+ (ft bgs)",108,NA
+B04734,"Bottom Screen
+ (ft bgs)",58,NA
+B04734,Measured Well Depth,NA,NA
+B04735,"Fill 
+(ft bgs)",0,NA
+B04735,"Residual Soil
+ (ft bgs)",10,NA
+B04735,Saprolite (ft bgs),18,NA
+B04735,"PWR
+ (ft bgs)",78,NA
+B04735,"Top of Rock 
+ (ft bgs)",108,NA
+B04735,"Bottom Screen
+ (ft bgs)",75,NA
+B04735,Measured Well Depth,NA,NA
+B04736,"Fill 
+(ft bgs)",0,NA
+B04736,"Residual Soil
+ (ft bgs)",10,NA
+B04736,Saprolite (ft bgs),18,NA
+B04736,"PWR
+ (ft bgs)",78,NA
+B04736,"Top of Rock 
+ (ft bgs)",108,NA
+B04736,"Bottom Screen
+ (ft bgs)",98,NA
+B04736,Measured Well Depth,NA,NA
+B04737,"Fill 
+(ft bgs)",0,NA
+B04737,"Residual Soil
+ (ft bgs)",NA,NA
+B04737,Saprolite (ft bgs),NA,NA
+B04737,"PWR
+ (ft bgs)",3,NA
+B04737,"Top of Rock 
+ (ft bgs)",48,NA
+B04737,"Bottom Screen
+ (ft bgs)",52,NA
+B04737,Measured Well Depth,NA,NA
+B4MWAA,"Fill 
+(ft bgs)",0,NA
+B4MWAA,"Residual Soil
+ (ft bgs)",7,NA
+B4MWAA,Saprolite (ft bgs),11,NA
+B4MWAA,"PWR
+ (ft bgs)",75.3,NA
+B4MWAA,"Top of Rock 
+ (ft bgs)","NA",NA
+B4MWAA,"Bottom Screen
+ (ft bgs)",74.51,NA
+B4MWAA,Measured Well Depth,72.05,NA
+B4MWBB,"Fill 
+(ft bgs)","NA",NA
+B4MWBB,"Residual Soil
+ (ft bgs)",0,NA
+B4MWBB,Saprolite (ft bgs),11,NA
+B4MWBB,"PWR
+ (ft bgs)",44.4,NA
+B4MWBB,"Top of Rock 
+ (ft bgs)","NA",NA
+B4MWBB,"Bottom Screen
+ (ft bgs)",44,NA
+B4MWBB,Measured Well Depth,43.25,NA
+B4MWDD,"Fill 
+(ft bgs)",0,NA
+B4MWDD,"Residual Soil
+ (ft bgs)","NA",NA
+B4MWDD,Saprolite (ft bgs),8,NA
+B4MWDD,"PWR
+ (ft bgs)",66,NA
+B4MWDD,"Top of Rock 
+ (ft bgs)","NA",NA
+B4MWDD,"Bottom Screen
+ (ft bgs)",56,NA
+B4MWDD,Measured Well Depth,58.8,NA
+B4MWH,"Fill 
+(ft bgs)",0,NA
+B4MWH,"Residual Soil
+ (ft bgs)",38.3,NA
+B4MWH,Saprolite (ft bgs),40,NA
+B4MWH,"PWR
+ (ft bgs)","NA",NA
+B4MWH,"Top of Rock 
+ (ft bgs)","NA",NA
+B4MWH,"Bottom Screen
+ (ft bgs)",79,NA
+B4MWH,Measured Well Depth,82.5,NA
+B4MWHH-A,"Fill 
+(ft bgs)","NA",NA
+B4MWHH-A,"Residual Soil
+ (ft bgs)",0,NA
+B4MWHH-A,Saprolite (ft bgs),30,NA
+B4MWHH-A,"PWR
+ (ft bgs)",33.76,NA
+B4MWHH-A,"Top of Rock 
+ (ft bgs)",47,NA
+B4MWHH-A,"Bottom Screen
+ (ft bgs)",435,NA
+B4MWHH-A,Measured Well Depth,NA,NA
+B4MWHH-B,"Fill 
+(ft bgs)","NA",NA
+B4MWHH-B,"Residual Soil
+ (ft bgs)",0,NA
+B4MWHH-B,Saprolite (ft bgs),30,NA
+B4MWHH-B,"PWR
+ (ft bgs)",33.76,NA
+B4MWHH-B,"Top of Rock 
+ (ft bgs)",47,NA
+B4MWHH-B,"Bottom Screen
+ (ft bgs)",245,NA
+B4MWHH-B,Measured Well Depth,NA,NA
+B4MWU,"Fill 
+(ft bgs)",0,NA
+B4MWU,"Residual Soil
+ (ft bgs)",24.3,NA
+B4MWU,Saprolite (ft bgs),98,NA
+B4MWU,"PWR
+ (ft bgs)",120,NA
+B4MWU,"Top of Rock 
+ (ft bgs)","NA",NA
+B4MWU,"Bottom Screen
+ (ft bgs)",119,NA
+B4MWU,Measured Well Depth,NA,NA
+B4MWV,"Fill 
+(ft bgs)",0,NA
+B4MWV,"Residual Soil
+ (ft bgs)",1.5,NA
+B4MWV,Saprolite (ft bgs),"NA",NA
+B4MWV,"PWR
+ (ft bgs)",98.5,NA
+B4MWV,"Top of Rock 
+ (ft bgs)","NA",NA
+B4MWV,"Bottom Screen
+ (ft bgs)",98.2,NA
+B4MWV,Measured Well Depth,97.31,NA
+DPW-1,"Fill 
+(ft bgs)","NA",NA
+DPW-1,"Residual Soil
+ (ft bgs)",0,NA
+DPW-1,Saprolite (ft bgs),55,NA
+DPW-1,"PWR
+ (ft bgs)","NA",NA
+DPW-1,"Top of Rock 
+ (ft bgs)","NA",NA
+DPW-1,"Bottom Screen
+ (ft bgs)",114,NA
+DPW-1,Measured Well Depth,NA,NA
+DPW-2,"Fill 
+(ft bgs)",0,NA
+DPW-2,"Residual Soil
+ (ft bgs)",30,NA
+DPW-2,Saprolite (ft bgs),45,NA
+DPW-2,"PWR
+ (ft bgs)",170,NA
+DPW-2,"Top of Rock 
+ (ft bgs)",178.5,NA
+DPW-2,"Bottom Screen
+ (ft bgs)",180,NA
+DPW-2,Measured Well Depth,NA,NA
+DPW-3,"Fill 
+(ft bgs)","NA",NA
+DPW-3,"Residual Soil
+ (ft bgs)",0,NA
+DPW-3,Saprolite (ft bgs),80,NA
+DPW-3,"PWR
+ (ft bgs)",105,NA
+DPW-3,"Top of Rock 
+ (ft bgs)",152,NA
+DPW-3,"Bottom Screen
+ (ft bgs)",155,NA
+DPW-3,Measured Well Depth,NA,NA
+MW00-101,"Fill 
+(ft bgs)",ND,NA
+MW00-101,"Residual Soil
+ (ft bgs)",ND,NA
+MW00-101,Saprolite (ft bgs),ND,NA
+MW00-101,"PWR
+ (ft bgs)",ND,NA
+MW00-101,"Top of Rock 
+ (ft bgs)",112,NA
+MW00-101,"Bottom Screen
+ (ft bgs)",213,NA
+MW00-101,Measured Well Depth,NA,NA
+MW00-102A,"Fill 
+(ft bgs)",0,NA
+MW00-102A,"Residual Soil
+ (ft bgs)","NA",NA
+MW00-102A,Saprolite (ft bgs),14,NA
+MW00-102A,"PWR
+ (ft bgs)",22.5,NA
+MW00-102A,"Top of Rock 
+ (ft bgs)",30,NA
+MW00-102A,"Bottom Screen
+ (ft bgs)",280,NA
+MW00-102A,Measured Well Depth,NA,NA
+MW00-102B,"Fill 
+(ft bgs)",0,NA
+MW00-102B,"Residual Soil
+ (ft bgs)","NA",NA
+MW00-102B,Saprolite (ft bgs),12,NA
+MW00-102B,"PWR
+ (ft bgs)",22.5,NA
+MW00-102B,"Top of Rock 
+ (ft bgs)",30,NA
+MW00-102B,"Bottom Screen
+ (ft bgs)",27.5,NA
+MW00-102B,Measured Well Depth,29.92,NA
+MW00-103A,"Fill 
+(ft bgs)",0,NA
+MW00-103A,"Residual Soil
+ (ft bgs)","NA",NA
+MW00-103A,Saprolite (ft bgs),10,NA
+MW00-103A,"PWR
+ (ft bgs)",84,NA
+MW00-103A,"Top of Rock 
+ (ft bgs)",102,NA
+MW00-103A,"Bottom Screen
+ (ft bgs)",551,NA
+MW00-103A,Measured Well Depth,NA,NA
+MW00-103B,"Fill 
+(ft bgs)",0,NA
+MW00-103B,"Residual Soil
+ (ft bgs)","NA",NA
+MW00-103B,Saprolite (ft bgs),8,NA
+MW00-103B,"PWR
+ (ft bgs)",84,NA
+MW00-103B,"Top of Rock 
+ (ft bgs)",102,NA
+MW00-103B,"Bottom Screen
+ (ft bgs)",98,NA
+MW00-103B,Measured Well Depth,100.05,NA
+MW00-104,"Fill 
+(ft bgs)",ND,NA
+MW00-104,"Residual Soil
+ (ft bgs)",ND,NA
+MW00-104,Saprolite (ft bgs),ND,NA
+MW00-104,"PWR
+ (ft bgs)",ND,NA
+MW00-104,"Top of Rock 
+ (ft bgs)",97,NA
+MW00-104,"Bottom Screen
+ (ft bgs)",278,NA
+MW00-104,Measured Well Depth,NA,NA
+MW00-107A,"Fill 
+(ft bgs)",ND,NA
+MW00-107A,"Residual Soil
+ (ft bgs)",ND,NA
+MW00-107A,Saprolite (ft bgs),ND,NA
+MW00-107A,"PWR
+ (ft bgs)",ND,NA
+MW00-107A,"Top of Rock 
+ (ft bgs)",50,NA
+MW00-107A,"Bottom Screen
+ (ft bgs)",301,NA
+MW00-107A,Measured Well Depth,NA,NA
+MW00-107B,"Fill 
+(ft bgs)",ND,NA
+MW00-107B,"Residual Soil
+ (ft bgs)",ND,NA
+MW00-107B,Saprolite (ft bgs),ND,NA
+MW00-107B,"PWR
+ (ft bgs)",50.8,NA
+MW00-107B,"Top of Rock 
+ (ft bgs)",70,NA
+MW00-107B,"Bottom Screen
+ (ft bgs)",143,NA
+MW00-107B,Measured Well Depth,144.67,NA
+MW00-107C,"Fill 
+(ft bgs)",ND,NA
+MW00-107C,"Residual Soil
+ (ft bgs)",ND,NA
+MW00-107C,Saprolite (ft bgs),ND,NA
+MW00-107C,"PWR
+ (ft bgs)",50.8,NA
+MW00-107C,"Top of Rock 
+ (ft bgs)",70,NA
+MW00-107C,"Bottom Screen
+ (ft bgs)",65,NA
+MW00-107C,Measured Well Depth,66.18,NA
+MW-03-202A,"Fill 
+(ft bgs)",ND,NA
+MW-03-202A,"Residual Soil
+ (ft bgs)",ND,NA
+MW-03-202A,Saprolite (ft bgs),ND,NA
+MW-03-202A,"PWR
+ (ft bgs)",65,NA
+MW-03-202A,"Top of Rock 
+ (ft bgs)",90,NA
+MW-03-202A,"Bottom Screen
+ (ft bgs)",200.9,NA
+MW-03-202A,Measured Well Depth,200.65,NA
+MW-03-202B,"Fill 
+(ft bgs)",ND,NA
+MW-03-202B,"Residual Soil
+ (ft bgs)",ND,NA
+MW-03-202B,Saprolite (ft bgs),ND,NA
+MW-03-202B,"PWR
+ (ft bgs)",63.5,NA
+MW-03-202B,"Top of Rock 
+ (ft bgs)",93.5,NA
+MW-03-202B,"Bottom Screen
+ (ft bgs)",87.6,NA
+MW-03-202B,Measured Well Depth,87.32,NA
+MW1,"Fill 
+(ft bgs)","NA",NA
+MW1,"Residual Soil
+ (ft bgs)",0,NA
+MW1,Saprolite (ft bgs),18,NA
+MW1,"PWR
+ (ft bgs)","NA",NA
+MW1,"Top of Rock 
+ (ft bgs)","NA",NA
+MW1,"Bottom Screen
+ (ft bgs)",ND,NA
+MW1,Measured Well Depth,NA,NA
+MW26,"Fill 
+(ft bgs)","NA",NA
+MW26,"Residual Soil
+ (ft bgs)",0,NA
+MW26,Saprolite (ft bgs),39,NA
+MW26,"PWR
+ (ft bgs)","NA",NA
+MW26,"Top of Rock 
+ (ft bgs)","NA",NA
+MW26,"Bottom Screen
+ (ft bgs)",49.8,NA
+MW26,Measured Well Depth,NA,NA
+MW27,"Fill 
+(ft bgs)","NA",NA
+MW27,"Residual Soil
+ (ft bgs)",0,NA
+MW27,Saprolite (ft bgs),35,NA
+MW27,"PWR
+ (ft bgs)","NA",NA
+MW27,"Top of Rock 
+ (ft bgs)","NA",NA
+MW27,"Bottom Screen
+ (ft bgs)",55,NA
+MW27,Measured Well Depth,57.8,NA
+MW29,"Fill 
+(ft bgs)","NA",NA
+MW29,"Residual Soil
+ (ft bgs)",0,NA
+MW29,Saprolite (ft bgs),"NA",NA
+MW29,"PWR
+ (ft bgs)",24,NA
+MW29,"Top of Rock 
+ (ft bgs)","NA",NA
+MW29,"Bottom Screen
+ (ft bgs)",30.5,NA
+MW29,Measured Well Depth,32.5,NA
+MW30A,"Fill 
+(ft bgs)",0,NA
+MW30A,"Residual Soil
+ (ft bgs)","NA",NA
+MW30A,Saprolite (ft bgs),"NA",NA
+MW30A,"PWR
+ (ft bgs)","NA",NA
+MW30A,"Top of Rock 
+ (ft bgs)","NA",NA
+MW30A,"Bottom Screen
+ (ft bgs)",25.5,NA
+MW30A,Measured Well Depth,27.59,NA
+MW30AR,"Fill 
+(ft bgs)",0,NA
+MW30AR,"Residual Soil
+ (ft bgs)","NA",NA
+MW30AR,Saprolite (ft bgs),"NA",NA
+MW30AR,"PWR
+ (ft bgs)","NA",NA
+MW30AR,"Top of Rock 
+ (ft bgs)","NA",NA
+MW30AR,"Bottom Screen
+ (ft bgs)",25.5,NA
+MW30AR,Measured Well Depth,25.5,NA
+MW30B,"Fill 
+(ft bgs)",0,NA
+MW30B,"Residual Soil
+ (ft bgs)",6,NA
+MW30B,Saprolite (ft bgs),12,NA
+MW30B,"PWR
+ (ft bgs)",62.5,NA
+MW30B,"Top of Rock 
+ (ft bgs)","NA",NA
+MW30B,"Bottom Screen
+ (ft bgs)",62,NA
+MW30B,Measured Well Depth,62.65,NA
+MW30BR,"Fill 
+(ft bgs)",0,NA
+MW30BR,"Residual Soil
+ (ft bgs)",6,NA
+MW30BR,Saprolite (ft bgs),12,NA
+MW30BR,"PWR
+ (ft bgs)",62,NA
+MW30BR,"Top of Rock 
+ (ft bgs)","NA",NA
+MW30BR,"Bottom Screen
+ (ft bgs)",62,NA
+MW30BR,Measured Well Depth,62,NA
+MW31,"Fill 
+(ft bgs)","NA",NA
+MW31,"Residual Soil
+ (ft bgs)",0,NA
+MW31,Saprolite (ft bgs),"NA",NA
+MW31,"PWR
+ (ft bgs)","NA",NA
+MW31,"Top of Rock 
+ (ft bgs)","NA",NA
+MW31,"Bottom Screen
+ (ft bgs)",30.5,NA
+MW31,Measured Well Depth,29.82,NA
+MW5,"Fill 
+(ft bgs)","NA",NA
+MW5,"Residual Soil
+ (ft bgs)",0,NA
+MW5,Saprolite (ft bgs),"NA",NA
+MW5,"PWR
+ (ft bgs)",29.5,NA
+MW5,"Top of Rock 
+ (ft bgs)",ND,NA
+MW5,"Bottom Screen
+ (ft bgs)",66,NA
+MW5,Measured Well Depth,NA,NA
+MW52,"Fill 
+(ft bgs)","NA",NA
+MW52,"Residual Soil
+ (ft bgs)",0,NA
+MW52,Saprolite (ft bgs),16,NA
+MW52,"PWR
+ (ft bgs)","NA",NA
+MW52,"Top of Rock 
+ (ft bgs)","NA",NA
+MW52,"Bottom Screen
+ (ft bgs)",27,NA
+MW52,Measured Well Depth,21.8,NA
+MW53,"Fill 
+(ft bgs)","NA",NA
+MW53,"Residual Soil
+ (ft bgs)",0,NA
+MW53,Saprolite (ft bgs),20,NA
+MW53,"PWR
+ (ft bgs)","NA",NA
+MW53,"Top of Rock 
+ (ft bgs)","NA",NA
+MW53,"Bottom Screen
+ (ft bgs)",28.5,NA
+MW53,Measured Well Depth,NA,NA
+MW54,"Fill 
+(ft bgs)","NA",NA
+MW54,"Residual Soil
+ (ft bgs)",0,NA
+MW54,Saprolite (ft bgs),"NA",NA
+MW54,"PWR
+ (ft bgs)","NA",NA
+MW54,"Top of Rock 
+ (ft bgs)","NA",NA
+MW54,"Bottom Screen
+ (ft bgs)",30,NA
+MW54,Measured Well Depth,31.58,NA
+MW56,"Fill 
+(ft bgs)","NA",NA
+MW56,"Residual Soil
+ (ft bgs)",0,NA
+MW56,Saprolite (ft bgs),"NA",NA
+MW56,"PWR
+ (ft bgs)","NA",NA
+MW56,"Top of Rock 
+ (ft bgs)","NA",NA
+MW56,"Bottom Screen
+ (ft bgs)",24,NA
+MW56,Measured Well Depth,27.12,NA
+MW99-01A,"Fill 
+(ft bgs)",0,NA
+MW99-01A,"Residual Soil
+ (ft bgs)","NA",NA
+MW99-01A,Saprolite (ft bgs),5,NA
+MW99-01A,"PWR
+ (ft bgs)",11,NA
+MW99-01A,"Top of Rock 
+ (ft bgs)",24.98,NA
+MW99-01A,"Bottom Screen
+ (ft bgs)",124,NA
+MW99-01A,Measured Well Depth,123.65,NA
+MW99-01B,"Fill 
+(ft bgs)",0,NA
+MW99-01B,"Residual Soil
+ (ft bgs)","NA",NA
+MW99-01B,Saprolite (ft bgs),5.5,NA
+MW99-01B,"PWR
+ (ft bgs)","NA",NA
+MW99-01B,"Top of Rock 
+ (ft bgs)",8.02,NA
+MW99-01B,"Bottom Screen
+ (ft bgs)",40,NA
+MW99-01B,Measured Well Depth,43.39,NA
+MW99-02A,"Fill 
+(ft bgs)",0,NA
+MW99-02A,"Residual Soil
+ (ft bgs)","NA",NA
+MW99-02A,Saprolite (ft bgs),6,NA
+MW99-02A,"PWR
+ (ft bgs)",22,NA
+MW99-02A,"Top of Rock 
+ (ft bgs)",25.04,NA
+MW99-02A,"Bottom Screen
+ (ft bgs)",130,NA
+MW99-02A,Measured Well Depth,121.46,NA
+MW99-02B,"Fill 
+(ft bgs)",0,NA
+MW99-02B,"Residual Soil
+ (ft bgs)","NA",NA
+MW99-02B,Saprolite (ft bgs),"NA",NA
+MW99-02B,"PWR
+ (ft bgs)",12,NA
+MW99-02B,"Top of Rock 
+ (ft bgs)",17.02,NA
+MW99-02B,"Bottom Screen
+ (ft bgs)",24.5,NA
+MW99-02B,Measured Well Depth,24.51,NA
+MW99-03A,"Fill 
+(ft bgs)",0,NA
+MW99-03A,"Residual Soil
+ (ft bgs)","NA",NA
+MW99-03A,Saprolite (ft bgs),4,NA
+MW99-03A,"PWR
+ (ft bgs)",32,NA
+MW99-03A,"Top of Rock 
+ (ft bgs)",39.5,NA
+MW99-03A,"Bottom Screen
+ (ft bgs)",190,NA
+MW99-03A,Measured Well Depth,177.94,NA
+MW99-03B,"Fill 
+(ft bgs)",0,NA
+MW99-03B,"Residual Soil
+ (ft bgs)","NA",NA
+MW99-03B,Saprolite (ft bgs),4,NA
+MW99-03B,"PWR
+ (ft bgs)","NA",NA
+MW99-03B,"Top of Rock 
+ (ft bgs)",31.96,NA
+MW99-03B,"Bottom Screen
+ (ft bgs)",74,NA
+MW99-03B,Measured Well Depth,73.78,NA
+MWG1,"Fill 
+(ft bgs)",0,NA
+MWG1,"Residual Soil
+ (ft bgs)","NA",NA
+MWG1,Saprolite (ft bgs),38,NA
+MWG1,"PWR
+ (ft bgs)",131,NA
+MWG1,"Top of Rock 
+ (ft bgs)","NA",NA
+MWG1,"Bottom Screen
+ (ft bgs)",127,NA
+MWG1,Measured Well Depth,NA,NA
+MWG10,"Fill 
+(ft bgs)",0,NA
+MWG10,"Residual Soil
+ (ft bgs)",27,NA
+MWG10,Saprolite (ft bgs),32,NA
+MWG10,"PWR
+ (ft bgs)",90,NA
+MWG10,"Top of Rock 
+ (ft bgs)","NA",NA
+MWG10,"Bottom Screen
+ (ft bgs)",65.5,NA
+MWG10,Measured Well Depth,66.2,NA
+MWG11,"Fill 
+(ft bgs)",0,NA
+MWG11,"Residual Soil
+ (ft bgs)",4,NA
+MWG11,Saprolite (ft bgs),35.5,NA
+MWG11,"PWR
+ (ft bgs)",55.7,NA
+MWG11,"Top of Rock 
+ (ft bgs)",100,NA
+MWG11,"Bottom Screen
+ (ft bgs)",90,NA
+MWG11,Measured Well Depth,NA,NA
+MWG12,"Fill 
+(ft bgs)",0,NA
+MWG12,"Residual Soil
+ (ft bgs)","NA",NA
+MWG12,Saprolite (ft bgs),18,NA
+MWG12,"PWR
+ (ft bgs)",20.7,NA
+MWG12,"Top of Rock 
+ (ft bgs)",24.8,NA
+MWG12,"Bottom Screen
+ (ft bgs)",40.7,NA
+MWG12,Measured Well Depth,43.6,NA
+MWG14,"Fill 
+(ft bgs)",0,NA
+MWG14,"Residual Soil
+ (ft bgs)","NA",NA
+MWG14,Saprolite (ft bgs),13,NA
+MWG14,"PWR
+ (ft bgs)",22.1,NA
+MWG14,"Top of Rock 
+ (ft bgs)",28,NA
+MWG14,"Bottom Screen
+ (ft bgs)",39.7,NA
+MWG14,Measured Well Depth,39.75,NA
+MWG15,"Fill 
+(ft bgs)",0,NA
+MWG15,"Residual Soil
+ (ft bgs)","NA",NA
+MWG15,Saprolite (ft bgs),24,NA
+MWG15,"PWR
+ (ft bgs)",33.5,NA
+MWG15,"Top of Rock 
+ (ft bgs)","NA",NA
+MWG15,"Bottom Screen
+ (ft bgs)",37,NA
+MWG15,Measured Well Depth,39.75,NA
+MWG16,"Fill 
+(ft bgs)",0,NA
+MWG16,"Residual Soil
+ (ft bgs)","NA",NA
+MWG16,Saprolite (ft bgs),11,NA
+MWG16,"PWR
+ (ft bgs)",16.3,NA
+MWG16,"Top of Rock 
+ (ft bgs)","NA",NA
+MWG16,"Bottom Screen
+ (ft bgs)",35,NA
+MWG16,Measured Well Depth,63.32,NA
+MWG17,"Fill 
+(ft bgs)",0,NA
+MWG17,"Residual Soil
+ (ft bgs)","NA",NA
+MWG17,Saprolite (ft bgs),10,NA
+MWG17,"PWR
+ (ft bgs)",11,NA
+MWG17,"Top of Rock 
+ (ft bgs)",26,NA
+MWG17,"Bottom Screen
+ (ft bgs)",28.8,NA
+MWG17,Measured Well Depth,31.74,NA
+MWG19,"Fill 
+(ft bgs)",0,NA
+MWG19,"Residual Soil
+ (ft bgs)","NA",NA
+MWG19,Saprolite (ft bgs),8,NA
+MWG19,"PWR
+ (ft bgs)",15.8,NA
+MWG19,"Top of Rock 
+ (ft bgs)",20,NA
+MWG19,"Bottom Screen
+ (ft bgs)",60,NA
+MWG19,Measured Well Depth,37.8,NA
+MWG1A,"Fill 
+(ft bgs)",0,NA
+MWG1A,"Residual Soil
+ (ft bgs)","NA",NA
+MWG1A,Saprolite (ft bgs),"NA",NA
+MWG1A,"PWR
+ (ft bgs)",41,NA
+MWG1A,"Top of Rock 
+ (ft bgs)","NA",NA
+MWG1A,"Bottom Screen
+ (ft bgs)",65.7,NA
+MWG1A,Measured Well Depth,NA,NA
+MWG2,"Fill 
+(ft bgs)",0,NA
+MWG2,"Residual Soil
+ (ft bgs)","NA",NA
+MWG2,Saprolite (ft bgs),46,NA
+MWG2,"PWR
+ (ft bgs)",85.4,NA
+MWG2,"Top of Rock 
+ (ft bgs)","NA",NA
+MWG2,"Bottom Screen
+ (ft bgs)",83.5,NA
+MWG2,Measured Well Depth,NA,NA
+MWG20,"Fill 
+(ft bgs)",0,NA
+MWG20,"Residual Soil
+ (ft bgs)","NA",NA
+MWG20,Saprolite (ft bgs),"NA",NA
+MWG20,"PWR
+ (ft bgs)",4.5,NA
+MWG20,"Top of Rock 
+ (ft bgs)",10,NA
+MWG20,"Bottom Screen
+ (ft bgs)",29.8,NA
+MWG20,Measured Well Depth,32.65,NA
+MWG21,"Fill 
+(ft bgs)",0,NA
+MWG21,"Residual Soil
+ (ft bgs)","NA",NA
+MWG21,Saprolite (ft bgs),6,NA
+MWG21,"PWR
+ (ft bgs)",20.2,NA
+MWG21,"Top of Rock 
+ (ft bgs)",28,NA
+MWG21,"Bottom Screen
+ (ft bgs)",41.2,NA
+MWG21,Measured Well Depth,43.81,NA
+MWG22,"Fill 
+(ft bgs)",0,NA
+MWG22,"Residual Soil
+ (ft bgs)","NA",NA
+MWG22,Saprolite (ft bgs),28,NA
+MWG22,"PWR
+ (ft bgs)",32.6,NA
+MWG22,"Top of Rock 
+ (ft bgs)","NA",NA
+MWG22,"Bottom Screen
+ (ft bgs)",46.5,NA
+MWG22,Measured Well Depth,49.78,NA
+MWG3,"Fill 
+(ft bgs)",0,NA
+MWG3,"Residual Soil
+ (ft bgs)","NA",NA
+MWG3,Saprolite (ft bgs),63,NA
+MWG3,"PWR
+ (ft bgs)",83.7,NA
+MWG3,"Top of Rock 
+ (ft bgs)","NA",NA
+MWG3,"Bottom Screen
+ (ft bgs)",48,NA
+MWG3,Measured Well Depth,NA,NA
+MWG3R,"Fill 
+(ft bgs)",ND,NA
+MWG3R,"Residual Soil
+ (ft bgs)",ND,NA
+MWG3R,Saprolite (ft bgs),ND,NA
+MWG3R,"PWR
+ (ft bgs)",ND,NA
+MWG3R,"Top of Rock 
+ (ft bgs)",ND,NA
+MWG3R,"Bottom Screen
+ (ft bgs)",ND,NA
+MWG3R,Measured Well Depth,NA,NA
+MWG4,"Fill 
+(ft bgs)",0,NA
+MWG4,"Residual Soil
+ (ft bgs)",10.5,NA
+MWG4,Saprolite (ft bgs),33,NA
+MWG4,"PWR
+ (ft bgs)",62.3,NA
+MWG4,"Top of Rock 
+ (ft bgs)","NA",NA
+MWG4,"Bottom Screen
+ (ft bgs)",76.8,NA
+MWG4,Measured Well Depth,81.7,NA
+MWG5,"Fill 
+(ft bgs)",0,NA
+MWG5,"Residual Soil
+ (ft bgs)","NA",NA
+MWG5,Saprolite (ft bgs),19,NA
+MWG5,"PWR
+ (ft bgs)",66.2,NA
+MWG5,"Top of Rock 
+ (ft bgs)",77.5,NA
+MWG5,"Bottom Screen
+ (ft bgs)",80.7,NA
+MWG5,Measured Well Depth,NA,NA
+MWG5-5R,"Fill 
+(ft bgs)",0,NA
+MWG5-5R,"Residual Soil
+ (ft bgs)","NA",NA
+MWG5-5R,Saprolite (ft bgs),8.6,NA
+MWG5-5R,"PWR
+ (ft bgs)",83,NA
+MWG5-5R,"Top of Rock 
+ (ft bgs)","NA",NA
+MWG5-5R,"Bottom Screen
+ (ft bgs)",82.9,NA
+MWG5-5R,Measured Well Depth,87,NA
+MWG5-6,"Fill 
+(ft bgs)",0,NA
+MWG5-6,"Residual Soil
+ (ft bgs)","NA",NA
+MWG5-6,Saprolite (ft bgs),"NA",NA
+MWG5-6,"PWR
+ (ft bgs)","NA",NA
+MWG5-6,"Top of Rock 
+ (ft bgs)","NA",NA
+MWG5-6,"Bottom Screen
+ (ft bgs)",36.5,NA
+MWG5-6,Measured Well Depth,39.56,NA
+MWG6,"Fill 
+(ft bgs)",0,NA
+MWG6,"Residual Soil
+ (ft bgs)","NA",NA
+MWG6,Saprolite (ft bgs),37,NA
+MWG6,"PWR
+ (ft bgs)",64,NA
+MWG6,"Top of Rock 
+ (ft bgs)","NA",NA
+MWG6,"Bottom Screen
+ (ft bgs)",59.5,NA
+MWG6,Measured Well Depth,61.28,NA
+MWG7,"Fill 
+(ft bgs)","NA",NA
+MWG7,"Residual Soil
+ (ft bgs)",0,NA
+MWG7,Saprolite (ft bgs),19,NA
+MWG7,"PWR
+ (ft bgs)",27.8,NA
+MWG7,"Top of Rock 
+ (ft bgs)",40,NA
+MWG7,"Bottom Screen
+ (ft bgs)",51.5,NA
+MWG7,Measured Well Depth,53.98,NA
+MWOS-03,"Fill 
+(ft bgs)","NA",NA
+MWOS-03,"Residual Soil
+ (ft bgs)",0,NA
+MWOS-03,Saprolite (ft bgs),"NA",NA
+MWOS-03,"PWR
+ (ft bgs)","NA",NA
+MWOS-03,"Top of Rock 
+ (ft bgs)","NA",NA
+MWOS-03,"Bottom Screen
+ (ft bgs)",21,NA
+MWOS-03,Measured Well Depth,24.45,NA
+MWOS-04,"Fill 
+(ft bgs)","NA",NA
+MWOS-04,"Residual Soil
+ (ft bgs)",0,NA
+MWOS-04,Saprolite (ft bgs),"NA",NA
+MWOS-04,"PWR
+ (ft bgs)",18,NA
+MWOS-04,"Top of Rock 
+ (ft bgs)","NA",NA
+MWOS-04,"Bottom Screen
+ (ft bgs)",23,NA
+MWOS-04,Measured Well Depth,25.59,NA
+MWOS-09,"Fill 
+(ft bgs)","NA",NA
+MWOS-09,"Residual Soil
+ (ft bgs)",0,NA
+MWOS-09,Saprolite (ft bgs),"NA",NA
+MWOS-09,"PWR
+ (ft bgs)",57,NA
+MWOS-09,"Top of Rock 
+ (ft bgs)","NA",NA
+MWOS-09,"Bottom Screen
+ (ft bgs)",61.5,NA
+MWOS-09,Measured Well Depth,63.83,NA
+MWOS-11,"Fill 
+(ft bgs)","NA",NA
+MWOS-11,"Residual Soil
+ (ft bgs)",0,NA
+MWOS-11,Saprolite (ft bgs),"NA",NA
+MWOS-11,"PWR
+ (ft bgs)","NA",NA
+MWOS-11,"Top of Rock 
+ (ft bgs)","NA",NA
+MWOS-11,"Bottom Screen
+ (ft bgs)",45,NA
+MWOS-11,Measured Well Depth,47.68,NA
+MW-W1,"Fill 
+(ft bgs)",0,NA
+MW-W1,"Residual Soil
+ (ft bgs)","NA",NA
+MW-W1,Saprolite (ft bgs),7,NA
+MW-W1,"PWR
+ (ft bgs)","NA",NA
+MW-W1,"Top of Rock 
+ (ft bgs)","NA",NA
+MW-W1,"Bottom Screen
+ (ft bgs)",40,NA
+MW-W1,Measured Well Depth,38.66,NA
+MW-W1R,"Fill 
+(ft bgs)",0,NA
+MW-W1R,"Residual Soil
+ (ft bgs)",ND,NA
+MW-W1R,Saprolite (ft bgs),ND,NA
+MW-W1R,"PWR
+ (ft bgs)",ND,NA
+MW-W1R,"Top of Rock 
+ (ft bgs)",ND,NA
+MW-W1R,"Bottom Screen
+ (ft bgs)",40,NA
+MW-W1R,Measured Well Depth,40,NA
+MW-W2,"Fill 
+(ft bgs)",ND,NA
+MW-W2,"Residual Soil
+ (ft bgs)",ND,NA
+MW-W2,Saprolite (ft bgs),ND,NA
+MW-W2,"PWR
+ (ft bgs)",ND,NA
+MW-W2,"Top of Rock 
+ (ft bgs)",63,NA
+MW-W2,"Bottom Screen
+ (ft bgs)",190,NA
+MW-W2,Measured Well Depth,NA,NA
+MW-W3,"Fill 
+(ft bgs)",ND,NA
+MW-W3,"Residual Soil
+ (ft bgs)",ND,NA
+MW-W3,Saprolite (ft bgs),ND,NA
+MW-W3,"PWR
+ (ft bgs)",ND,NA
+MW-W3,"Top of Rock 
+ (ft bgs)",10,NA
+MW-W3,"Bottom Screen
+ (ft bgs)",186,NA
+MW-W3,Measured Well Depth,186.59,NA
+MW-W4,"Fill 
+(ft bgs)",0,NA
+MW-W4,"Residual Soil
+ (ft bgs)","NA",NA
+MW-W4,Saprolite (ft bgs),"NA",NA
+MW-W4,"PWR
+ (ft bgs)","NA",NA
+MW-W4,"Top of Rock 
+ (ft bgs)",38,NA
+MW-W4,"Bottom Screen
+ (ft bgs)",70,NA
+MW-W4,Measured Well Depth,69.62,NA
+MW-W5,"Fill 
+(ft bgs)","NA",NA
+MW-W5,"Residual Soil
+ (ft bgs)","NA",NA
+MW-W5,Saprolite (ft bgs),0,NA
+MW-W5,"PWR
+ (ft bgs)",12,NA
+MW-W5,"Top of Rock 
+ (ft bgs)",20,NA
+MW-W5,"Bottom Screen
+ (ft bgs)",200,NA
+MW-W5,Measured Well Depth,NA,NA
+MW-W6,"Fill 
+(ft bgs)",0,NA
+MW-W6,"Residual Soil
+ (ft bgs)","NA",NA
+MW-W6,Saprolite (ft bgs),4,NA
+MW-W6,"PWR
+ (ft bgs)","NA",NA
+MW-W6,"Top of Rock 
+ (ft bgs)",25,NA
+MW-W6,"Bottom Screen
+ (ft bgs)",87,NA
+MW-W6,Measured Well Depth,86.7,NA
+MW-W7,"Fill 
+(ft bgs)","NA",NA
+MW-W7,"Residual Soil
+ (ft bgs)","NA",NA
+MW-W7,Saprolite (ft bgs),0,NA
+MW-W7,"PWR
+ (ft bgs)",5,NA
+MW-W7,"Top of Rock 
+ (ft bgs)",15.5,NA
+MW-W7,"Bottom Screen
+ (ft bgs)",51,NA
+MW-W7,Measured Well Depth,49.81,NA
+OB201A,"Fill 
+(ft bgs)","NA",NA
+OB201A,"Residual Soil
+ (ft bgs)",0,NA
+OB201A,Saprolite (ft bgs),10,NA
+OB201A,"PWR
+ (ft bgs)","NA",NA
+OB201A,"Top of Rock 
+ (ft bgs)","NA",NA
+OB201A,"Bottom Screen
+ (ft bgs)",21.4,NA
+OB201A,Measured Well Depth,NA,NA
+OB202C,"Fill 
+(ft bgs)",0,NA
+OB202C,"Residual Soil
+ (ft bgs)",29,NA
+OB202C,Saprolite (ft bgs),36,NA
+OB202C,"PWR
+ (ft bgs)",105.4,NA
+OB202C,"Top of Rock 
+ (ft bgs)",ND,NA
+OB202C,"Bottom Screen
+ (ft bgs)",34.5,NA
+OB202C,Measured Well Depth,NA,NA
+OB203C,"Fill 
+(ft bgs)","NA",NA
+OB203C,"Residual Soil
+ (ft bgs)",0,NA
+OB203C,Saprolite (ft bgs),"NA",NA
+OB203C,"PWR
+ (ft bgs)","NA",NA
+OB203C,"Top of Rock 
+ (ft bgs)","NA",NA
+OB203C,"Bottom Screen
+ (ft bgs)",29.2,NA
+OB203C,Measured Well Depth,29.95,NA
+OB203CR,"Fill 
+(ft bgs)","NA",NA
+OB203CR,"Residual Soil
+ (ft bgs)",0,NA
+OB203CR,Saprolite (ft bgs),"NA",NA
+OB203CR,"PWR
+ (ft bgs)","NA",NA
+OB203CR,"Top of Rock 
+ (ft bgs)","NA",NA
+OB203CR,"Bottom Screen
+ (ft bgs)",30,NA
+OB203CR,Measured Well Depth,30,NA
+OB208A,"Fill 
+(ft bgs)","NA",NA
+OB208A,"Residual Soil
+ (ft bgs)",0,NA
+OB208A,Saprolite (ft bgs),8,NA
+OB208A,"PWR
+ (ft bgs)",45.4,NA
+OB208A,"Top of Rock 
+ (ft bgs)",49.5,NA
+OB208A,"Bottom Screen
+ (ft bgs)",160,NA
+OB208A,Measured Well Depth,NA,NA
+OB208B,"Fill 
+(ft bgs)",0,NA
+OB208B,"Residual Soil
+ (ft bgs)","NA",NA
+OB208B,Saprolite (ft bgs),"NA",NA
+OB208B,"PWR
+ (ft bgs)",37.7,NA
+OB208B,"Top of Rock 
+ (ft bgs)",46,NA
+OB208B,"Bottom Screen
+ (ft bgs)",147.5,NA
+OB208B,Measured Well Depth,156,NA
+OW1A,"Fill 
+(ft bgs)","NA",NA
+OW1A,"Residual Soil
+ (ft bgs)",0,NA
+OW1A,Saprolite (ft bgs),40,NA
+OW1A,"PWR
+ (ft bgs)","NA",NA
+OW1A,"Top of Rock 
+ (ft bgs)","NA",NA
+OW1A,"Bottom Screen
+ (ft bgs)",58,NA
+OW1A,Measured Well Depth,58.8,NA
+PMW7,"Fill 
+(ft bgs)",0,NA
+PMW7,"Residual Soil
+ (ft bgs)",1,NA
+PMW7,Saprolite (ft bgs),43,NA
+PMW7,"PWR
+ (ft bgs)",102,NA
+PMW7,"Top of Rock 
+ (ft bgs)",108,NA
+PMW7,"Bottom Screen
+ (ft bgs)",102.5,NA
+PMW7,Measured Well Depth,98.24,NA
+PZ03,"Fill 
+(ft bgs)","NA",NA
+PZ03,"Residual Soil
+ (ft bgs)",0,NA
+PZ03,Saprolite (ft bgs),"NA",NA
+PZ03,"PWR
+ (ft bgs)","NA",NA
+PZ03,"Top of Rock 
+ (ft bgs)","NA",NA
+PZ03,"Bottom Screen
+ (ft bgs)",13,NA
+PZ03,Measured Well Depth,16.44,NA
+RW208,"Fill 
+(ft bgs)","NA",NA
+RW208,"Residual Soil
+ (ft bgs)",0,NA
+RW208,Saprolite (ft bgs),12.5,NA
+RW208,"PWR
+ (ft bgs)",52.4,NA
+RW208,"Top of Rock 
+ (ft bgs)",53.5,NA
+RW208,"Bottom Screen
+ (ft bgs)",152,NA
+RW208,Measured Well Depth,NA,NA
+SCT3,"Fill 
+(ft bgs)",ND,NA
+SCT3,"Residual Soil
+ (ft bgs)",ND,NA
+SCT3,Saprolite (ft bgs),ND,NA
+SCT3,"PWR
+ (ft bgs)",65,NA
+SCT3,"Top of Rock 
+ (ft bgs)",95,NA
+SCT3,"Bottom Screen
+ (ft bgs)",95,NA
+SCT3,Measured Well Depth,97.74,NA
+SCT5,"Fill 
+(ft bgs)",0,NA
+SCT5,"Residual Soil
+ (ft bgs)","NA",NA
+SCT5,Saprolite (ft bgs),8,NA
+SCT5,"PWR
+ (ft bgs)",57,NA
+SCT5,"Top of Rock 
+ (ft bgs)",77,NA
+SCT5,"Bottom Screen
+ (ft bgs)",77,NA
+SCT5,Measured Well Depth,77.9,NA
+VE1,"Fill 
+(ft bgs)",ND,NA
+VE1,"Residual Soil
+ (ft bgs)",ND,NA
+VE1,Saprolite (ft bgs),ND,NA
+VE1,"PWR
+ (ft bgs)",ND,NA
+VE1,"Top of Rock 
+ (ft bgs)",ND,NA
+VE1,"Bottom Screen
+ (ft bgs)",62,NA
+VE1,Measured Well Depth,NA,NA
+VE2,"Fill 
+(ft bgs)",ND,NA
+VE2,"Residual Soil
+ (ft bgs)",ND,NA
+VE2,Saprolite (ft bgs),ND,NA
+VE2,"PWR
+ (ft bgs)",ND,NA
+VE2,"Top of Rock 
+ (ft bgs)",ND,NA
+VE2,"Bottom Screen
+ (ft bgs)",60,NA
+VE2,Measured Well Depth,NA,NA
+VE3,"Fill 
+(ft bgs)",ND,NA
+VE3,"Residual Soil
+ (ft bgs)",ND,NA
+VE3,Saprolite (ft bgs),ND,NA
+VE3,"PWR
+ (ft bgs)",ND,NA
+VE3,"Top of Rock 
+ (ft bgs)",ND,NA
+VE3,"Bottom Screen
+ (ft bgs)",60,NA
+VE3,Measured Well Depth,NA,NA
+VE4,"Fill 
+(ft bgs)",ND,NA
+VE4,"Residual Soil
+ (ft bgs)",ND,NA
+VE4,Saprolite (ft bgs),ND,NA
+VE4,"PWR
+ (ft bgs)",ND,NA
+VE4,"Top of Rock 
+ (ft bgs)",ND,NA
+VE4,"Bottom Screen
+ (ft bgs)",60,NA
+VE4,Measured Well Depth,NA,NA
+VE5,"Fill 
+(ft bgs)",ND,NA
+VE5,"Residual Soil
+ (ft bgs)",ND,NA
+VE5,Saprolite (ft bgs),ND,NA
+VE5,"PWR
+ (ft bgs)",ND,NA
+VE5,"Top of Rock 
+ (ft bgs)",ND,NA
+VE5,"Bottom Screen
+ (ft bgs)",60,NA
+VE5,Measured Well Depth,NA,NA
+VE6,"Fill 
+(ft bgs)",ND,NA
+VE6,"Residual Soil
+ (ft bgs)",ND,NA
+VE6,Saprolite (ft bgs),ND,NA
+VE6,"PWR
+ (ft bgs)",ND,NA
+VE6,"Top of Rock 
+ (ft bgs)",ND,NA
+VE6,"Bottom Screen
+ (ft bgs)",43,NA
+VE6,Measured Well Depth,NA,NA
+VE7,"Fill 
+(ft bgs)",ND,NA
+VE7,"Residual Soil
+ (ft bgs)",ND,NA
+VE7,Saprolite (ft bgs),ND,NA
+VE7,"PWR
+ (ft bgs)",ND,NA
+VE7,"Top of Rock 
+ (ft bgs)",ND,NA
+VE7,"Bottom Screen
+ (ft bgs)",60,NA
+VE7,Measured Well Depth,NA,NA
+VE8,"Fill 
+(ft bgs)",ND,NA
+VE8,"Residual Soil
+ (ft bgs)",ND,NA
+VE8,Saprolite (ft bgs),ND,NA
+VE8,"PWR
+ (ft bgs)",ND,NA
+VE8,"Top of Rock 
+ (ft bgs)",ND,NA
+VE8,"Bottom Screen
+ (ft bgs)",60,NA
+VE8,Measured Well Depth,NA,NA
+VE9,"Fill 
+(ft bgs)",ND,NA
+VE9,"Residual Soil
+ (ft bgs)",ND,NA
+VE9,Saprolite (ft bgs),ND,NA
+VE9,"PWR
+ (ft bgs)",ND,NA
+VE9,"Top of Rock 
+ (ft bgs)",ND,NA
+VE9,"Bottom Screen
+ (ft bgs)",60,NA
+VE9,Measured Well Depth,NA,NA
+SWMU19MW-1A,"Fill 
+(ft bgs)",ND,NA
+SWMU19MW-1A,"Residual Soil
+ (ft bgs)",0,NA
+SWMU19MW-1A,Saprolite (ft bgs),88,NA
+SWMU19MW-1A,"PWR
+ (ft bgs)",120,NA
+SWMU19MW-1A,"Top of Rock 
+ (ft bgs)",150,NA
+SWMU19MW-1A,"Bottom Screen
+ (ft bgs)",144.35,NA
+SWMU19MW-1A,Measured Well Depth,NA,NA
+SWMU19MW-1B,"Fill 
+(ft bgs)",ND,NA
+SWMU19MW-1B,"Residual Soil
+ (ft bgs)",0,NA
+SWMU19MW-1B,Saprolite (ft bgs),88,NA
+SWMU19MW-1B,"PWR
+ (ft bgs)",120,NA
+SWMU19MW-1B,"Top of Rock 
+ (ft bgs)",150,NA
+SWMU19MW-1B,"Bottom Screen
+ (ft bgs)",94.45,NA
+SWMU19MW-1B,Measured Well Depth,NA,NA
+SWMU19MW-1C,"Fill 
+(ft bgs)",ND,NA
+SWMU19MW-1C,"Residual Soil
+ (ft bgs)",0,NA
+SWMU19MW-1C,Saprolite (ft bgs),88,NA
+SWMU19MW-1C,"PWR
+ (ft bgs)",120,NA
+SWMU19MW-1C,"Top of Rock 
+ (ft bgs)",150,NA
+SWMU19MW-1C,"Bottom Screen
+ (ft bgs)",54.46,NA
+SWMU19MW-1C,Measured Well Depth,NA,NA
+SWMU19MW-2A,"Fill 
+(ft bgs)",ND,NA
+SWMU19MW-2A,"Residual Soil
+ (ft bgs)",0,NA
+SWMU19MW-2A,Saprolite (ft bgs),32,NA
+SWMU19MW-2A,"PWR
+ (ft bgs)",69,NA
+SWMU19MW-2A,"Top of Rock 
+ (ft bgs)",120,NA
+SWMU19MW-2A,"Bottom Screen
+ (ft bgs)",113,NA
+SWMU19MW-2A,Measured Well Depth,NA,NA
+SWMU19MW-2B,"Fill 
+(ft bgs)",ND,NA
+SWMU19MW-2B,"Residual Soil
+ (ft bgs)",0,NA
+SWMU19MW-2B,Saprolite (ft bgs),32,NA
+SWMU19MW-2B,"PWR
+ (ft bgs)",69,NA
+SWMU19MW-2B,"Top of Rock 
+ (ft bgs)",120,NA
+SWMU19MW-2B,"Bottom Screen
+ (ft bgs)",85.43,NA
+SWMU19MW-2B,Measured Well Depth,NA,NA
+SWMU19MW-3A,"Fill 
+(ft bgs)",ND,NA
+SWMU19MW-3A,"Residual Soil
+ (ft bgs)",0,NA
+SWMU19MW-3A,Saprolite (ft bgs),39,NA
+SWMU19MW-3A,"PWR
+ (ft bgs)",71,NA
+SWMU19MW-3A,"Top of Rock 
+ (ft bgs)",127,NA
+SWMU19MW-3A,"Bottom Screen
+ (ft bgs)",118.05,NA
+SWMU19MW-3A,Measured Well Depth,NA,NA
+SWMU19MW-3B,"Fill 
+(ft bgs)",ND,NA
+SWMU19MW-3B,"Residual Soil
+ (ft bgs)",0,NA
+SWMU19MW-3B,Saprolite (ft bgs),39,NA
+SWMU19MW-3B,"PWR
+ (ft bgs)",71,NA
+SWMU19MW-3B,"Top of Rock 
+ (ft bgs)",127,NA
+SWMU19MW-3B,"Bottom Screen
+ (ft bgs)",90.77,NA
+SWMU19MW-3B,Measured Well Depth,NA,NA
+SWMU19MW-3C,"Fill 
+(ft bgs)",ND,NA
+SWMU19MW-3C,"Residual Soil
+ (ft bgs)",0,NA
+SWMU19MW-3C,Saprolite (ft bgs),39,NA
+SWMU19MW-3C,"PWR
+ (ft bgs)",71,NA
+SWMU19MW-3C,"Top of Rock 
+ (ft bgs)",127,NA
+SWMU19MW-3C,"Bottom Screen
+ (ft bgs)",51.02,NA
+SWMU19MW-3C,Measured Well Depth,NA,NA
+SWMU19MW-4A,"Fill 
+(ft bgs)",ND,NA
+SWMU19MW-4A,"Residual Soil
+ (ft bgs)",0,NA
+SWMU19MW-4A,Saprolite (ft bgs),40,NA
+SWMU19MW-4A,"PWR
+ (ft bgs)",93,NA
+SWMU19MW-4A,"Top of Rock 
+ (ft bgs)",120,NA
+SWMU19MW-4A,"Bottom Screen
+ (ft bgs)",114.67,NA
+SWMU19MW-4A,Measured Well Depth,NA,NA
+SWMU19MW-4B,"Fill 
+(ft bgs)",ND,NA
+SWMU19MW-4B,"Residual Soil
+ (ft bgs)",0,NA
+SWMU19MW-4B,Saprolite (ft bgs),40,NA
+SWMU19MW-4B,"PWR
+ (ft bgs)",93,NA
+SWMU19MW-4B,"Top of Rock 
+ (ft bgs)",120,NA
+SWMU19MW-4B,"Bottom Screen
+ (ft bgs)",83.73,NA
+SWMU19MW-4B,Measured Well Depth,NA,NA
+SWMU19MW-4C,"Fill 
+(ft bgs)",ND,NA
+SWMU19MW-4C,"Residual Soil
+ (ft bgs)",0,NA
+SWMU19MW-4C,Saprolite (ft bgs),40,NA
+SWMU19MW-4C,"PWR
+ (ft bgs)",93,NA
+SWMU19MW-4C,"Top of Rock 
+ (ft bgs)",120,NA
+SWMU19MW-4C,"Bottom Screen
+ (ft bgs)",48.91,NA
+SWMU19MW-4C,Measured Well Depth,NA,NA
