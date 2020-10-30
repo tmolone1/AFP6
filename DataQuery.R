@@ -22,21 +22,31 @@ mps<-mps[,c(1,3)]
 rm(mpelev, resurvey)
 foo<-merge(mps, scrn_ints, by="LOCID", all=TRUE)
 
+
+locs_complete<-readOGR("locs_complete.shp")
+coords<-tibble(locs_complete$LOCID,locs_complete@coords[,1],locs_complete@coords[,2])
+coords<-coords[coords[,2]>0,]
+nad83<-coords[coords[,2]>500000,]
+nad27<-coords[coords[,2]<500000,]
+grnd<-LDI[,c("LOCID","ELEV")]
+
 # separate out locations with coordinates in NAD 83 and convert to NAD27
-nad83<-LDI[LDI$DATUM=="NAD83_STP" & !is.na(LDI$NCOORD),]
-spdf<- SpatialPointsDataFrame(nad83[,c("ECOORD","NCOORD")],
+#####nad83<-LDI[LDI$DATUM=="NAD83_STP" & !is.na(LDI$NCOORD),]
+spdf<- SpatialPointsDataFrame(nad83[,c(2,3)],
                                      data= nad83,
                                      proj4string = CRS("+init=EPSG:2240")) # georgia state plane west NAD83
 spdf.transform <- spTransform(spdf, CRS("+init=EPSG:26767"))  # change projection to NAD27 / Georgia West 
-converted<-as_tibble(spdf.transform@coords)
-converted$LOCID<-spdf.transform$LOCID
-converted$ELEV<-spdf.transform$ELEV
-converted<-converted[,c(3,1,2,4)]
+converted<-as_tibble(cbind(spdf.transform$`locs_complete$LOCID`,spdf.transform@coords))
+colnames(converted)<-c("LOCID","ECOORD","NCOORD")
 
 # merge converted NAD27 coordinates back with locations from the LDI file that were already in NAD27
-nad27<-LDI[LDI$DATUM=="NAD27_STP" & !is.na(LDI$NCOORD),]
-nad27<-nad27[,c("LOCID","ECOORD","NCOORD","ELEV")]
-tbl<-merge(converted,nad27,by=c(1,2,3,4),all=TRUE)  # all locations, some have no ground elev, mp elev, or intervals
+#nad27<-LDI[LDI$DATUM=="NAD27_STP" & !is.na(LDI$NCOORD),]
+#nad27<-nad27[,c("LOCID","ECOORD","NCOORD","ELEV")]
+colnames(nad27)<-colnames(converted)
+tbl<-merge(converted,nad27,by=c(1,2,3),all=TRUE)  
+tbl[,2]<-as.numeric(unlist(tbl[,2]))
+tbl[,3]<-as.numeric(unlist(tbl[,3]))
+tbl<-merge(tbl,grnd, by="LOCID", all.x=TRUE) # all locations, some have no ground elev, mp elev, or intervals
 scrns<-merge(tbl,foo, by = "LOCID")  # all locations found in interval tables WINT and WCI
 scrns<-scrns[!is.na(scrns$IBDEPTH),] # removed locations without an interval
 scrns$maxdepth<-scrns$IEDEPTH
@@ -48,11 +58,11 @@ scrns[which(duplicated(scrns[,2:3])),]$NCOORD<-scrns[which(duplicated(scrns[,2:3
 # create shapefile
 spdf<- SpatialPointsDataFrame(tbl[,c("ECOORD","NCOORD")],
                               data= tbl,
-                              proj4string = CRS("+init=EPSG:2240")) # georgia state plane west NAD27
+                              proj4string = CRS("+init=EPSG:26767")) # georgia state plane west NAD27
 bound<-readOGR("Polyline.shp")
 scrns_df<- SpatialPointsDataFrame(scrns[,c("ECOORD","NCOORD")],
                               data= scrns,
-                              proj4string = CRS("+init=EPSG:2240")) # georgia state plane west NAD27
+                              proj4string = CRS("+init=EPSG:26767")) # georgia state plane west NAD27
 
 # identify locations with 20 feet of each other, generally wells screened at different levels, and force the code to adjust coordinates until they plot right)
 d <- gDistance(scrns_df, byid=T)
@@ -75,7 +85,7 @@ for (i in seq(1,nrow(choose))) {
 }
 scrns_df<- SpatialPointsDataFrame(scrns[,c("ECOORD","NCOORD")],
                                   data= scrns,
-                                  proj4string = CRS("+init=EPSG:2240")) # georgia state plane west NAD27
+                                  proj4string = CRS("+init=EPSG:26767")) # georgia state plane west NAD27
 d <- gDistance(scrns_df, byid=T)
 min.d <- apply(d, 1, function(x) order(x, decreasing=F)[2])
 newdata <- cbind(scrns_df, scrns_df[min.d,], apply(d, 1, function(x) sort(x, decreasing=F)[2]))
@@ -96,7 +106,19 @@ plot(grd)
 points(scrns_df)
 df<-as_tibble(scrns_df[!is.na(over(scrns_df, grd)),])
 
+# locs_complete<-readOGR("locs_complete.shp")
+# coords<-tibble(locs_complete$LOCID,locs_complete@coords[,1],locs_complete@coords[,2])
+# coords<-coords[coords[,2]>0,]
+# nad83<-coords[coords[,2]>500000,]
+# nad27<-coords[coords[,2]<500000,]
+# View(coords)
+# spdf1<- SpatialPointsDataFrame(coords[,c(2,3)],
+#                                   data=coords,
+#                                   proj4string = CRS("+init=EPSG:26767")) # georgia state plane west NAD27
+# plot(spdf1)
+
 # write output
+write_csv(tbl, "all_locations.csv")
 write_csv(scrns, "wellscreens.csv")
 write_csv(df, "collar.csv")
 save(scrns, file = 'scrns.Rda')
