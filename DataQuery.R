@@ -56,8 +56,9 @@ tbl<-merge(converted,nad27,by=c(1,2,3),all=TRUE)
 tbl[,2]<-as.numeric(unlist(tbl[,2]))
 tbl[,3]<-as.numeric(unlist(tbl[,3]))
 tbl<-merge(tbl,grnd, by="LOCID", all.x=TRUE) # all locations, some have no ground elev, mp elev, or intervals
-scrns<-merge(tbl,foo, by = "LOCID")  # all locations found in interval tables WINT and WCI
-scrns<-scrns[!is.na(scrns$IBDEPTH),] # removed locations without an interval
+scrns<-merge(tbl,foo, by = "LOCID", all=TRUE)  # all locations found in interval tables WINT and WCI
+#scrns<-scrns[!is.na(scrns$IBDEPTH),] # removed locations without an interval
+scrns<-scrns[!is.na(scrns$ECOORD),] 
 scrns$maxdepth<-scrns$IEDEPTH
 scrns$zero<-0
 scrns[is.na(scrns$ELEV),]$ELEV<-scrns[is.na(scrns$ELEV),]$MPELEV #if no ground info, assume the MPelev is the ground
@@ -139,8 +140,7 @@ writeOGR(spdf, dsn = getwd(), layer = "wellscreens", driver = "ESRI Shapefile", 
 LTD<-sqlFetch(mdbConnect, "LTD")
 lith<-merge(LTD[,c(2:4,6,9,10,12,14)],scrns_df, by="LOCID")
 lith<-lith[,1:8]
-t<-tibble(unique(lith$ASTMCODE))
-t$lithcode<-c("SAND", "SILT", "SILTY SAND", "SAND", "SILT", "CLAYEY SAND", "NSNR", NA, "NDPS", "CLAY", "SILTY GRAVEL", "CLAYEY GRAVEL", "NACM", "ORGANIC SOIL", "SILTY CLAY", rep("SAND",3), "SILTY SAND", "CLAY", "CLAY", "SAND", "SILT", "CLAY", "SAND", "SILTY SAND", "CLAYEY SAND", "ORGANIC SOIL", rep("SILTY SAND",2), "PT", "CLAYEY SAND", "SANDY CLAY", "SILTY SAND", "SANDY SILT", "GRAVELLY SILT", "SILT", "SILT", "CLAY", "SANDY CLAY", "CLAYEY SAND", "SAND", "SAND", "GRAVEL", "GRAVEL", "SILT", "SILT", "GRAVEL", "GRAVEL", "GRAVEL", "SILTY SAND", "CLAY", "SAND", "GRAVEL", "SAND", "GRAVEL", "SAND")
+t<-read_csv("lithcodes.csv")
 i=1
 lith$lithcode<-NA
 for (i in 1:nrow(t)) {
