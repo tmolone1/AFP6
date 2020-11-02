@@ -10,6 +10,8 @@ LDI<-sqlFetch(mdbConnect, "LDI")
 WCI<-sqlFetch(mdbConnect, "WCI")
 WINT<-sqlFetch(mdbConnect, "WINT")
 WMI<-sqlFetch(mdbConnect, "WMI")
+add<-read_csv("AFP6 Boring Coordinates July 2020 GPS.csv")
+
 
 # get screen intervals from WINT table and measuring point elevations from WCI table, merge together into a single table
 scrn_ints<-WINT[WINT$CLASS=="SCRN",c(2,8,9)]
@@ -22,13 +24,20 @@ mps<-mps[,c(1,3)]
 rm(mpelev, resurvey)
 foo<-merge(mps, scrn_ints, by="LOCID", all=TRUE)
 
-
 locs_complete<-readOGR("locs_complete.shp")
 coords<-tibble(locs_complete$LOCID,locs_complete@coords[,1],locs_complete@coords[,2])
 coords<-coords[coords[,2]>0,]
+names(coords)<-c("LOCID","ECOORD","NCOORD")
+bind<-add[,c(2,3,4)]
+names(bind)<-names(coords)
+coords<-rbind(coords,bind)
+
 nad83<-coords[coords[,2]>500000,]
 nad27<-coords[coords[,2]<500000,]
 grnd<-LDI[,c("LOCID","ELEV")]
+bind<-add[,c(2,5)]
+names(bind)<-names(grnd)
+grnd<-rbind(grnd,bind)
 
 # separate out locations with coordinates in NAD 83 and convert to NAD27
 #####nad83<-LDI[LDI$DATUM=="NAD83_STP" & !is.na(LDI$NCOORD),]
@@ -36,7 +45,7 @@ spdf<- SpatialPointsDataFrame(nad83[,c(2,3)],
                                      data= nad83,
                                      proj4string = CRS("+init=EPSG:2240")) # georgia state plane west NAD83
 spdf.transform <- spTransform(spdf, CRS("+init=EPSG:26767"))  # change projection to NAD27 / Georgia West 
-converted<-as_tibble(cbind(spdf.transform$`locs_complete$LOCID`,spdf.transform@coords))
+converted<-as_tibble(cbind(spdf.transform$LOCID,spdf.transform@coords))
 colnames(converted)<-c("LOCID","ECOORD","NCOORD")
 
 # merge converted NAD27 coordinates back with locations from the LDI file that were already in NAD27
