@@ -11,26 +11,31 @@ WCI<-sqlFetch(mdbConnect, "WCI")
 WINT<-sqlFetch(mdbConnect, "WINT")
 WMI<-sqlFetch(mdbConnect, "WMI")
 add<-read_csv("AFP6 Boring Coordinates July 2020 GPS.csv")
-
+spdf_add<- SpatialPointsDataFrame(add[,c(3,4)],
+                              data= add,
+                              proj4string = CRS("+init=EPSG:6447")) # georgia state plane west NAD83 2011
+spdf.transform <- spTransform(spdf_add, CRS("+init=EPSG:26767"))  # change projection to NAD27 / Georgia West 
+converted<-as_tibble(cbind(spdf.transform$Name,spdf.transform@coords))
+colnames(converted)<-c("LOCID","ECOORD","NCOORD")
 
 # get screen intervals from WINT table and measuring point elevations from WCI table, merge together into a single table
 scrn_ints<-WINT[WINT$CLASS=="SCRN",c(2,8,9)]
 mpelev<-WCI[,c("LOCID","INSDATE","MPELEV")]
 resurvey<-WMI[WMI$MTYPE=="RSVEY",c("LOCID","LOGDATE","MPELEV")]   # replace the WCI mpelevs with resurveys from WMI table
-mpelev[mpelev$LOCID=="B90D5",]
-resurvey[resurvey$LOCID=="B90D5",]
 mps<-merge(mpelev[mpelev$LOCID %in% setdiff(mpelev$LOCID,unique(resurvey$LOCID)),],resurvey, by= c(1,2,3), all.x=TRUE, all.y=TRUE)
 mps<-mps[,c(1,3)]
 rm(mpelev, resurvey)
 foo<-merge(mps, scrn_ints, by="LOCID", all=TRUE)
+foo1<-read_csv("foo1.csv") # intervals for new wells
+foo<-rbind(foo,foo1)
 
 locs_complete<-readOGR("locs_complete.shp")
 coords<-tibble(locs_complete$LOCID,locs_complete@coords[,1],locs_complete@coords[,2])
 coords<-coords[coords[,2]>0,]
-names(coords)<-c("LOCID","ECOORD","NCOORD")
-bind<-add[,c(2,3,4)]
-names(bind)<-names(coords)
-coords<-rbind(coords,bind)
+colnames(coords)<-c("LOCID","ECOORD","NCOORD")
+coords<-rbind(coords,converted)
+coords$ECOORD<-as.numeric(coords$ECOORD)
+coords$NCOORD<-as.numeric(coords$NCOORD)
 
 nad83<-coords[coords[,2]>500000,]
 nad27<-coords[coords[,2]<500000,]
