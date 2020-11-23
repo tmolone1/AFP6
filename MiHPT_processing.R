@@ -11,13 +11,18 @@ library(readxl)
 setwd("./MiHPT")
 files<-list.files()
 
+roundup<-function (x,mult) {
+  y = ceiling(x/mult)*mult
+  return(y)
+}
+
 for (file in files) {
   df <- read_excel(file, col_types = rep("numeric", 12))
   MiHPT_ID <- gsub(".xlsx", "", file)
   df_short <- tibble(df[,c(1,12,4:7)]) # select the parameters of interest: depth, K, EC, ECD, PID, and FID
   colnames(df_short)<-c("depth", "K", "EC", "ECD", "PID", "FID")
   df_short <- df_short %>%  # with this data frame
-    mutate(ints=cut(as.numeric(.[[1]]), breaks=(-0.000000001:0.5:round(max(df[,1])/5)*5))) %>% #subdivide the data by 0.5-foot depth intervals
+    mutate(ints=cut(as.numeric(.[[1]]), breaks=(0:roundup(max(df[,1]),1)))) %>% #subdivide the data by intervals and aggregate
     group_by(ints) %>%  
     summarize(mean.K = mean(na.omit(K)), 
               mean.EC = mean(na.omit(EC)), 
