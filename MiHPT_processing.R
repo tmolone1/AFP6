@@ -8,7 +8,7 @@ library(tidyverse)
 library(stringi)
 library(stringr)
 library(readxl)
-setwd("./MiHPT")
+setwd("C:/Users/tmoloney/Documents/work/AFP6/MiHPT")
 files<-list.files()
 
 roundup<-function (x,mult) {
@@ -58,6 +58,29 @@ df_ALL$MiHPT_ID
 # Hue<-replace(Hue,Hue>255, 185)
 # plot(Hue)
 # df_ALL$Hue<-Hue
+round(cor(na.omit(drop)),
+         digits = 2 # rounded to 2 decimals
+      )
+df_ALL3<-df_ALL3%>%mutate(DPT_ID=gsub("DPT", "", df_ALL3$DPT_ID))
+df_ALL3<-df_ALL3%>%mutate(DPT_ID=gsub("A", "", df_ALL3$DPT_ID))
+df_ALL<-df_ALL%>%select(12,14,15,2:6)
+df_ALL<-df_ALL%>%mutate(MiHPT_ID=gsub("MIHPT-", "", df_ALL$MiHPT_ID))
+merged<-merge(df_ALL,df_ALL3,by=1:3)
+drop<-merged%>%select(4:9)
+library(corrplot)
+corrplot(cor(na.omit(drop)),
+         method = "number",
+         type = "upper", # show only upper side
+         bg="darkgray"
+)
+# correlation tests for whole dataset
+library(Hmisc)
+res <- rcorr(as.matrix(na.omit(drop))) # rcorr() accepts matrices only
+
+# display p-values (rounded to 3 decimals)
+round(res$P, 3)
+
+
 K_ints<-df_ALL[which(df_ALL$mean.K>0.11),]
 
 #write output

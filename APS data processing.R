@@ -8,7 +8,7 @@ library(tidyverse)
 library(stringi)
 library(stringr)
 library(readxl)
-setwd("./APS")
+setwd("C:/Users/tmoloney/Documents/work/AFP6/APS")
 files<-list.files()
 
 roundup<-function (x,mult) {
