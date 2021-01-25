@@ -13,9 +13,12 @@
 library(tidyverse)
 library(sp)
 library(rgdal)
-library(sf)
 library(rgeos)
 library(stringr)
+
+#shp<-readOGR("C:/Users/User/OneDrive - Trihydro/Projects/Midnight Sun Trinity JV/AFP6/data/survey_points.shp")
+
+
 surv <- read_csv("survey_data_not_stoopid.csv")
 old_gps_surv <- read_csv("AFP6 Boring Coordinates July 2020 GPS.csv")
 
@@ -40,29 +43,29 @@ surv_extended %>% filter(str_detect(ID_Name,"BR") | str_detect(ID_Name,"OB"), st
 x <- surv_clipped$Easting
 y <- surv_clipped$Northing
 z <- surv_clipped$Elevation
-coords<-CRS("+init=EPSG:26967")  # georgia state plane west NAD83 ### NOTE: not 2011!
+coords<-CRS("+init=ESPG:8729")  # georgia state plane west NAD83 ### NOTE: not 2011!
 xyz <- as.data.frame(cbind(x,y,z), colnames=c("x","y","z"))
 pts <- SpatialPointsDataFrame(xyz[,c("x","y")], 
                        data= surv_clipped,
                        proj4string = coords)
-pts.transform <- spTransform(pts, CRS("+init=EPSG:26767"))  # change projection to NAD27 / Georgia West 
-pts.transform@coords
-pts.transform@data
+pts.transform <- spTransform(pts, CRS("+init=EPSG:26767") )  # change projection to NAD27 / Georgia West 
+#pts.transform@coords
+#pts.transform@data
 table_surv<-tibble(cbind(pts.transform@data, pts.transform@coords))
 table_surv<-table_surv %>% dplyr::select(ID_Name, Easting, Northing, Elevation, x, y)
 
 # gpsd points
 x <- gps_is_good_enough$Easting
 y <- gps_is_good_enough$Northing
-z <- gps_is_good_enough$Elevation
+z <- gps_is_good_enough$`Elevation (ft amsl)`
 coords<-CRS("+init=EPSG:6447")  # georgia state plane west NAD83  2011
 xyz <- as.data.frame(cbind(x,y,z), colnames=c("x","y","z"))
 pts <- SpatialPointsDataFrame(xyz[,c("x","y")], 
                               data= gps_is_good_enough,
                               proj4string = coords)
 pts.transform <- spTransform(pts, CRS("+init=EPSG:26767"))  # change projection to NAD27 / Georgia West 
-pts.transform@coords
-pts.transform@data
+#pts.transform@coords
+#pts.transform@data
 table_gps<-tibble(cbind(pts.transform@data, pts.transform@coords))
 table_gps<-table_gps %>% dplyr::select(Name, Easting, Northing, `Elevation (ft amsl)`, x, y) %>% mutate(`Elevation (ft amsl)` = rep(NA,nrow(table_gps)))
 names(table_gps)<-names(table_surv)
@@ -71,6 +74,8 @@ revised_survey_table<-rbind(table_surv,table_gps)
 
 
 write_csv(revised_survey_table,"revised_survey_data.csv")
+#write_csv(tbl,"shp.csv")
 
-
+revised_survey_table %>% filter(ID_Name %in% c("DPT09A","DPT09M"))
+tbl %>% filter(ID_Name %in% c("DPT9A","DPT9M"))
 
