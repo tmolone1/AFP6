@@ -18,10 +18,15 @@ library(stringr)
 
 #shp<-readOGR("C:/Users/User/OneDrive - Trihydro/Projects/Midnight Sun Trinity JV/AFP6/data/survey_points.shp")
 
+surv_shp<-readOGR("survey_points.shp")
+surv_shp<-tibble(cbind(surv_shp@data,surv_shp@coords))
+surv_shp<-surv_shp[-c(1,12,14,47,59),]
 
 surv <- read_csv("survey_data_not_stoopid.csv")
+surv_shp$ID_Name<-surv$ID_Name
 old_gps_surv <- read_csv("AFP6 Boring Coordinates July 2020 GPS.csv")
 
+surv<-surv_shp
 surv %>% filter(str_detect(surv$ID_Name,"M"))
 
 didnt_get_these_i_guess <- setdiff(old_gps_surv$Name, surv$ID_Name)
@@ -39,20 +44,20 @@ surv_extended %>% filter(!(str_detect(ID_Name,"BR") | str_detect(ID_Name,"OB")))
 surv_extended %>% filter(str_detect(ID_Name,"BR") | str_detect(ID_Name,"OB"), str_detect(Reason, "Elev"))
 )
 
-# surveyed points
-x <- surv_clipped$Easting
-y <- surv_clipped$Northing
-z <- surv_clipped$Elevation
-coords<-CRS("+init=ESPG:8729")  # georgia state plane west NAD83 ### NOTE: not 2011!
-xyz <- as.data.frame(cbind(x,y,z), colnames=c("x","y","z"))
-pts <- SpatialPointsDataFrame(xyz[,c("x","y")], 
-                       data= surv_clipped,
-                       proj4string = coords)
-pts.transform <- spTransform(pts, CRS("+init=EPSG:26767") )  # change projection to NAD27 / Georgia West 
-#pts.transform@coords
-#pts.transform@data
-table_surv<-tibble(cbind(pts.transform@data, pts.transform@coords))
-table_surv<-table_surv %>% dplyr::select(ID_Name, Easting, Northing, Elevation, x, y)
+# # surveyed points
+# x <- surv_clipped$Easting
+# y <- surv_clipped$Northing
+# z <- surv_clipped$Elevation
+# coords<-CRS("+init=ESPG:8729")  # georgia state plane west NAD83 ### NOTE: not 2011!
+# xyz <- as.data.frame(cbind(x,y,z), colnames=c("x","y","z"))
+# pts <- SpatialPointsDataFrame(xyz[,c("x","y")], 
+#                        data= surv_clipped,
+#                        proj4string = coords)
+# pts.transform <- spTransform(pts, CRS("+init=EPSG:26767") )  # change projection to NAD27 / Georgia West 
+# #pts.transform@coords
+# #pts.transform@data
+# table_surv<-tibble(cbind(pts.transform@data, pts.transform@coords))
+table_surv<-surv_clipped %>% dplyr::select(ID_Name, Easting, Northing, Elevation, X, Y)
 
 # gpsd points
 x <- gps_is_good_enough$Easting
@@ -69,6 +74,9 @@ pts.transform <- spTransform(pts, CRS("+init=EPSG:26767"))  # change projection 
 table_gps<-tibble(cbind(pts.transform@data, pts.transform@coords))
 table_gps<-table_gps %>% dplyr::select(Name, Easting, Northing, `Elevation (ft amsl)`, x, y) %>% mutate(`Elevation (ft amsl)` = rep(NA,nrow(table_gps)))
 names(table_gps)<-names(table_surv)
+
+nrow(table_surv)
+
 
 revised_survey_table<-rbind(table_surv,table_gps)
 

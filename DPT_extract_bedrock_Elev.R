@@ -6,7 +6,8 @@ library(sp)
 library(dplyr)
 dpt<-read_csv("M:/ItoN/MidnightSunTrinityJV/Modeling/AFP6/Leapfrog/MiHPT_Data_Processed_more2.csv")
 setwd("C:/Users/tmoloney/Documents/work/AFP6/")
-collar<-read_csv("M:/ItoN/MidnightSunTrinityJV/Modeling/AFP6/Leapfrog/Exports/collar.csv")
+collar<-read_csv("M:/ItoN/MidnightSunTrinityJV/Modeling/AFP6/Leapfrog/Exports/collar_export.csv")
+dpt<-collar[399:496,]
 dpt <- collar %>% filter(LOCID %in% unique(dpt$HoleID))
 dpt_spdf <- SpatialPointsDataFrame(dpt[,2:3], 
                                      data= dpt,
