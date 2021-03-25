@@ -1,11 +1,84 @@
 hole_id,analyte,max.detect,depth,units
-DPT11A,Chromium VI (Dissolved),0,"c(52.5, 59.4)","c(""ug/L"", ""ug/L"")"
-DPT20A,Benzene,1.41,60.8,ug/L
-DPT20A,Chromium VI (Dissolved),0,"c(50.7, 60.8, 67.7, 77, 83.8)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
-DPT20A,"cis-1,2-Dichloroethene",1.9,60.8,ug/L
-DPT20A,Trichloroethene,6.38,60.8,ug/L
-DPT20A,Vinyl chloride,0,60.8,ug/L
-DPT24A,Chromium VI (Dissolved),0,"c(50.3, 55, 60)","c(""ug/L"", ""ug/L"", ""ug/L"")"
+DPT04A,Benzene,0.739,55,ug/L
+DPT04A,Chromium VI,0,"c(55, 87.6, 93)","c(""ug/L"", ""ug/L"", ""ug/L"")"
+DPT04A,"cis-1,2-Dichloroethene",2.54,55,ug/L
+DPT04A,Trichloroethene,7.67,55,ug/L
+DPT04A,Vinyl chloride,0,"c(55, 87.6, 93)","c(""ug/L"", ""ug/L"", ""ug/L"")"
+DPT05A,Benzene,2.15,53.7,ug/L
+DPT05A,Chromium VI,0,"c(48, 53.7, 58.6, 66.1, 73.9, 83.5)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
+DPT05A,"cis-1,2-Dichloroethene",912,83.5,ug/L
+DPT05A,Trichloroethene,3730,83.5,ug/L
+DPT05A,Vinyl chloride,0,"c(48, 53.7, 58.6, 66.1, 73.9, 83.5)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
+DPT08A,Benzene,272,75,ug/L
+DPT08A,Chromium VI,0,"c(58.5, 62.8, 70.5)","c(""ug/L"", ""ug/L"", ""ug/L"")"
+DPT08A,"cis-1,2-Dichloroethene",266,58.5,ug/L
+DPT08A,Trichloroethene,621,75,ug/L
+DPT08A,Vinyl chloride,4.64,58.5,ug/L
+DPT09A,Benzene,4170,50.5,ug/L
+DPT09A,Chromium VI,0,"c(50.5, 82.7)","c(""ug/L"", ""ug/L"")"
+DPT09A,"cis-1,2-Dichloroethene",141,50.5,ug/L
+DPT09A,Trichloroethene,5510,50.5,ug/L
+DPT09A,Vinyl chloride,15.1,50.5,ug/L
+DPT10A,Benzene,11600,73.5,ug/L
+DPT10A,Chromium VI,0,"c(66.2, 73.5, 78, 83.6)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
+DPT10A,"cis-1,2-Dichloroethene",12100,73.5,ug/L
+DPT10A,Trichloroethene,502,73.5,ug/L
+DPT10A,Vinyl chloride,77,73.5,ug/L
+DPT11A,Benzene,1220,59.4,ug/L
+DPT11A,Chromium VI,0,"c(52.5, 59.4)","c(""ug/L"", ""ug/L"")"
+DPT11A,"cis-1,2-Dichloroethene",8820,59.4,ug/L
+DPT11A,Trichloroethene,40.1,52.5,ug/L
+DPT11A,Vinyl chloride,409,59.4,ug/L
+DPT12A,Benzene,79.8,48,ug/L
+DPT12A,Chromium VI,0,53,ug/L
+DPT12A,"cis-1,2-Dichloroethene",697,48,ug/L
+DPT12A,Trichloroethene,73.4,48,ug/L
+DPT12A,Vinyl chloride,2.9499999999999997,48,ug/L
+DPT13A,Benzene,0.8690000000000001,53,ug/L
+DPT13A,Chromium VI,77,81.2,ug/L
+DPT13A,"cis-1,2-Dichloroethene",19.1,81.2,ug/L
+DPT13A,Trichloroethene,7480,81.2,ug/L
+DPT13A,Vinyl chloride,0,"c(53, 60, 65, 72, 81.2)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
+DPT14A,Benzene,9.55,47.6,ug/L
+DPT14A,Chromium VI,0,"c(47.6, 62.9)","c(""ug/L"", ""ug/L"")"
+DPT14A,"cis-1,2-Dichloroethene",45,47.6,ug/L
+DPT14A,Trichloroethene,849,76,ug/L
+DPT14A,Vinyl chloride,0,"c(47.6, 52.3, 62.9, 76)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
+DPT17A,Benzene,0,"c(53.5, 70.3)","c(""ug/L"", ""ug/L"")"
+DPT17A,Chromium VI,0,70.3,ug/L
+DPT17A,"cis-1,2-Dichloroethene",5.359999999999999,70.3,ug/L
+DPT17A,Trichloroethene,31.9,70.3,ug/L
+DPT17A,Vinyl chloride,0,"c(53.5, 70.3)","c(""ug/L"", ""ug/L"")"
+DPT20A,Benzene,30.4,62.7,ug/L
+DPT20A,Chromium VI,0,"c(50.7, 60.8, 62.7, 77, 83.8)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
+DPT20A,"cis-1,2-Dichloroethene",141,83.8,ug/L
+DPT20A,Trichloroethene,3820,83.8,ug/L
+DPT20A,Vinyl chloride,0,"c(50.7, 60.8, 62.7, 77, 83.8, 90)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
+DPT21A,Benzene,0,"c(50.5, 62.9, 72.5, 82)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
+DPT21A,Chromium VI,0,"c(50.5, 62.9, 72.5, 82)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
+DPT21A,"cis-1,2-Dichloroethene",144,82,ug/L
+DPT21A,Trichloroethene,10800,82,ug/L
+DPT21A,Vinyl chloride,0,"c(50.5, 62.9, 72.5, 82)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
+DPT23A,Benzene,55.6,58.3,ug/L
+DPT23A,Chromium VI,0,"c(52.1, 58.3, 63)","c(""ug/L"", ""ug/L"", ""ug/L"")"
+DPT23A,"cis-1,2-Dichloroethene",104,58.3,ug/L
+DPT23A,Trichloroethene,867,63,ug/L
+DPT23A,Vinyl chloride,57.1,52.1,ug/L
+DPT24A,Benzene,2590,60,ug/L
+DPT24A,Chromium VI,0,"c(50.3, 55, 60)","c(""ug/L"", ""ug/L"", ""ug/L"")"
+DPT24A,"cis-1,2-Dichloroethene",2580,60,ug/L
+DPT24A,Trichloroethene,2110,60,ug/L
+DPT24A,Vinyl chloride,12.3,60,ug/L
+DPT25A,Benzene,383,60.2,ug/L
+DPT25A,Chromium VI,0,"c(53, 60.2)","c(""ug/L"", ""ug/L"")"
+DPT25A,"cis-1,2-Dichloroethene",635,60.2,ug/L
+DPT25A,Trichloroethene,7920,60.2,ug/L
+DPT25A,Vinyl chloride,0,"c(44.8, 53, 60.2)","c(""ug/L"", ""ug/L"", ""ug/L"")"
+DPT27A,Benzene,0.227,42.7,ug/L
+DPT27A,Chromium VI,0,"c(42.7, 55.7)","c(""ug/L"", ""ug/L"")"
+DPT27A,"cis-1,2-Dichloroethene",279,55.7,ug/L
+DPT27A,Trichloroethene,3940,55.7,ug/L
+DPT27A,Vinyl chloride,0,"c(42.7, 55.7)","c(""ug/L"", ""ug/L"")"
 DPT31A,Benzene,0,"c(15, 23, 27.9, 29.9, 35)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
 DPT31A,"cis-1,2-Dichloroethene",21.8,27.9,ug/L
 DPT31A,Trichloroethene,505,27.9,ug/L
@@ -22,15 +95,15 @@ DPT34A,Benzene,0,"c(11, 19.8, 28, 35, 40.3, 44)","c(""ug/L"", ""ug/L"", ""ug/L""
 DPT34A,"cis-1,2-Dichloroethene",44.2,35,ug/L
 DPT34A,Trichloroethene,491,19.8,ug/L
 DPT34A,Vinyl chloride,0.657,11,ug/L
-DPT35A,Benzene,269,47,ug/L
-DPT35A,"cis-1,2-Dichloroethene",291,"c(47, 47)","c(""ug/L"", ""ug/L"")"
+DPT35A,Benzene,0,"c(15, 27, 39, 54, 59.5)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
+DPT35A,"cis-1,2-Dichloroethene",165,15,ug/L
 DPT35A,Trichloroethene,514,54,ug/L
-DPT35A,Vinyl chloride,302,47,ug/L
+DPT35A,Vinyl chloride,2.9699999999999998,15,ug/L
 DPT36A,Benzene,0,"c(12, 24)","c(""ug/L"", ""ug/L"")"
 DPT36A,"cis-1,2-Dichloroethene",422,24,ug/L
 DPT36A,Trichloroethene,17300,24,ug/L
 DPT36A,Vinyl chloride,3.6,12,ug/L
-DPT37A,Benzene,0,"c(12.1, 18.1, 25.3, 32.2, 38.5)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
+DPT37A,Benzene,0,"c(12.1, 18.1, 32.2, 38.5)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
 DPT37A,"cis-1,2-Dichloroethene",2400,38.5,ug/L
 DPT37A,Trichloroethene,1230,38.5,ug/L
 DPT37A,Vinyl chloride,151,38.5,ug/L
@@ -46,23 +119,28 @@ DPT40A,Benzene,0,"c(11, 18, 25, 27.5)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L""
 DPT40A,"cis-1,2-Dichloroethene",0,"c(11, 18, 25, 27.5)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
 DPT40A,Trichloroethene,0,"c(11, 18, 25, 27.5)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
 DPT40A,Vinyl chloride,0,"c(11, 18, 25, 27.5)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
-DPT41A,Benzene,0,"c(31, 15, 21)","c(""ug/L"", ""ug/L"", ""ug/L"")"
+DPT41A,Benzene,0,"c(15, 21, 31)","c(""ug/L"", ""ug/L"", ""ug/L"")"
 DPT41A,"cis-1,2-Dichloroethene",22,31,ug/L
 DPT41A,Trichloroethene,557,31,ug/L
-DPT41A,Vinyl chloride,0,"c(31, 15, 21)","c(""ug/L"", ""ug/L"", ""ug/L"")"
+DPT41A,Vinyl chloride,0,"c(15, 21, 31)","c(""ug/L"", ""ug/L"", ""ug/L"")"
 DPT42A,Benzene,0,"c(19.5, 26.3, 46)","c(""ug/L"", ""ug/L"", ""ug/L"")"
 DPT42A,"cis-1,2-Dichloroethene",0,"c(19.5, 26.3, 46)","c(""ug/L"", ""ug/L"", ""ug/L"")"
 DPT42A,Trichloroethene,8.860000000000001,26.3,ug/L
 DPT42A,Vinyl chloride,0,"c(19.5, 26.3, 46)","c(""ug/L"", ""ug/L"", ""ug/L"")"
-DPT43A,Benzene,0,"c(26.8, 23.4)","c(""ug/L"", ""ug/L"")"
+DPT43A,Benzene,0,"c(23.4, 26.8)","c(""ug/L"", ""ug/L"")"
 DPT43A,"cis-1,2-Dichloroethene",0.459,26.8,ug/L
 DPT43A,Trichloroethene,12.6,26.8,ug/L
-DPT43A,Vinyl chloride,0,"c(26.8, 23.4)","c(""ug/L"", ""ug/L"")"
-DPT44A,Benzene,0,"c(16.7, 24.2, 31.1, 35)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
+DPT43A,Vinyl chloride,0,"c(23.4, 26.8)","c(""ug/L"", ""ug/L"")"
+DPT44A,Benzene,0,"c(16.7, 31.1, 35)","c(""ug/L"", ""ug/L"", ""ug/L"")"
 DPT44A,"cis-1,2-Dichloroethene",1.44,35,ug/L
 DPT44A,Trichloroethene,156,35,ug/L
-DPT44A,Vinyl chloride,0,"c(16.7, 24.2, 31.1, 35)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
+DPT44A,Vinyl chloride,0,"c(16.7, 31.1, 35)","c(""ug/L"", ""ug/L"", ""ug/L"")"
 DPT45A,Benzene,0,"c(14, 21, 30)","c(""ug/L"", ""ug/L"", ""ug/L"")"
 DPT45A,"cis-1,2-Dichloroethene",683,21,ug/L
 DPT45A,Trichloroethene,14700,21,ug/L
 DPT45A,Vinyl chloride,52.7,14,ug/L
+DPT46A,Benzene,1410,55.5,ug/L
+DPT46A,Chromium VI,0,"c(47.5, 55.5, 65.5, 70)","c(""ug/L"", ""ug/L"", ""ug/L"", ""ug/L"")"
+DPT46A,"cis-1,2-Dichloroethene",1090,55.5,ug/L
+DPT46A,Trichloroethene,371,70,ug/L
+DPT46A,Vinyl chloride,8.16,65.5,ug/L
